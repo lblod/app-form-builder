@@ -1,0 +1,13 @@
+version: '3.7'
+
+services:
+  identifier:
+    restart: "no"
+    ports:
+      - "80:80"
+  dispatcher:
+    restart: "no"
+  virtuoso:
+    restart: "no"
+    ports:
+      - "8890:8890"
