@@ -1,0 +1,61 @@
+PREFIX ext: <http://mu.semte.ch/vocabularies/ext/>
+
+INSERT DATA {
+  GRAPH <http://mu.semte.ch/graphs/public> {
+    <http://lblod.data.gift/concepts/68ccebe5-84fb-4976-a9b1-28b1d3ef3687>
+      ext:displayType "defaultInput" ;
+      ext:usesConceptScheme "false"^^xsd:boolean .
+
+    <http://lblod.data.gift/concepts/c1be61dc-4ad1-4d21-a847-17c61d64c733>
+      ext:displayType "numericalInput" ;
+      ext:usesConceptScheme "false"^^xsd:boolean .
+
+    <http://lblod.data.gift/concepts/4f1569e8-6ebc-4c61-9c3a-9affe7c38f28>
+      ext:displayType "date" ;
+      ext:usesConceptScheme "false"^^xsd:boolean .
+
+    <http://lblod.data.gift/concepts/3b2016b4-566e-47ab-83ff-46fe643b08ac>
+      ext:displayType "dateTime" ;
+      ext:usesConceptScheme "false"^^xsd:boolean .
+
+    <http://lblod.data.gift/concepts/bcb0457e-425b-4a39-8213-1ce84b781688>
+      ext:displayType "dateRange" ;
+      ext:usesConceptScheme "false"^^xsd:boolean .
+
+    <http://lblod.data.gift/concepts/2e114946-3f3e-43ee-af16-d7c7255977e3>
+      ext:displayType "textArea" ;
+      ext:usesConceptScheme "false"^^xsd:boolean .
+
+    <http://lblod.data.gift/concepts/8ad9281f-fd76-4d99-b84c-9b7ae434fb2d>
+      ext:displayType "conceptSchemeSelector" ;
+      ext:usesConceptScheme "true"^^xsd:boolean .
+
+    <http://lblod.data.gift/concepts/be1e99bd-8c4c-4b9c-bc88-732c692ee069>
+      ext:displayType "files" ;
+      ext:usesConceptScheme "false"^^xsd:boolean .
+
+    <http://lblod.data.gift/concepts/e322303f-bace-4279-9267-ce8c7780dc97>
+      ext:displayType "remoteUrls" ;
+      ext:usesConceptScheme "false"^^xsd:boolean .
+
+    <http://lblod.data.gift/concepts/eabf6541-6fc3-4ac1-95b7-c9fab5f5a366>
+      ext:displayType "switch" ;
+      ext:usesConceptScheme "false"^^xsd:boolean .
+
+    <http://lblod.data.gift/concepts/32b6f216-6420-4fe5-94e9-37f0c5186550>
+      ext:displayType "checkbox" ;
+      ext:usesConceptScheme "false"^^xsd:boolean .
+
+    <http://lblod.data.gift/concepts/9ec72078-c1ef-4126-b635-d426847af8e9>
+      ext:displayType "conceptSchemeRadioButtons" ;
+      ext:usesConceptScheme "true"^^xsd:boolean .
+
+    <http://lblod.data.gift/concepts/ce803ee6-fb61-43f6-a2f7-22968ca9a7e6>
+      ext:displayType "conceptSchemeMultiSelector" ;
+      ext:usesConceptScheme "true"^^xsd:boolean .
+
+    <http://lblod.data.gift/concepts/ec03d1ee-8542-48d8-b75a-0597080b5aa6>
+      ext:displayType "search" ;
+      ext:usesConceptScheme "false"^^xsd:boolean .
+  }
+}
