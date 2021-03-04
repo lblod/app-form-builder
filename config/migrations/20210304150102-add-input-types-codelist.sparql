@@ -1,0 +1,93 @@
+INSERT DATA {
+  GRAPH <http://mu.semte.ch/graphs/public> {
+    <http://lblod.data.gift/concept-schemes/c5a91bd7-3eb5-4d69-a51b-9bac6bf345f6>
+        a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
+        <http://mu.semte.ch/vocabularies/core/uuid> "c5a91bd7-3eb5-4d69-a51b-9bac6bf345f6" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "Form input types"@en .
+
+    <http://lblod.data.gift/concepts/68ccebe5-84fb-4976-a9b1-28b1d3ef3687>
+        a <http://www.w3.org/2004/02/skos/core#Concept>, <http://www.w3.org/2000/01/rdf-schema#Class>;
+        <http://mu.semte.ch/vocabularies/core/uuid> "68ccebe5-84fb-4976-a9b1-28b1d3ef3687" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/c5a91bd7-3eb5-4d69-a51b-9bac6bf345f6>;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "Input"@en .
+
+    <http://lblod.data.gift/concepts/c1be61dc-4ad1-4d21-a847-17c61d64c733>
+        a <http://www.w3.org/2004/02/skos/core#Concept>, <http://www.w3.org/2000/01/rdf-schema#Class>;
+        <http://mu.semte.ch/vocabularies/core/uuid> "c1be61dc-4ad1-4d21-a847-17c61d64c733" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/c5a91bd7-3eb5-4d69-a51b-9bac6bf345f6>;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "Numerical input"@en .
+
+    <http://lblod.data.gift/concepts/4f1569e8-6ebc-4c61-9c3a-9affe7c38f28>
+        a <http://www.w3.org/2004/02/skos/core#Concept>, <http://www.w3.org/2000/01/rdf-schema#Class>;
+        <http://mu.semte.ch/vocabularies/core/uuid> "4f1569e8-6ebc-4c61-9c3a-9affe7c38f28" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/c5a91bd7-3eb5-4d69-a51b-9bac6bf345f6>;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "Date"@en .
+
+    <http://lblod.data.gift/concepts/3b2016b4-566e-47ab-83ff-46fe643b08ac>
+        a <http://www.w3.org/2004/02/skos/core#Concept>, <http://www.w3.org/2000/01/rdf-schema#Class>;
+        <http://mu.semte.ch/vocabularies/core/uuid> "3b2016b4-566e-47ab-83ff-46fe643b08ac" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/c5a91bd7-3eb5-4d69-a51b-9bac6bf345f6>;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "Date and time"@en .
+
+    <http://lblod.data.gift/concepts/bcb0457e-425b-4a39-8213-1ce84b781688>
+        a <http://www.w3.org/2004/02/skos/core#Concept>, <http://www.w3.org/2000/01/rdf-schema#Class>;
+        <http://mu.semte.ch/vocabularies/core/uuid> "bcb0457e-425b-4a39-8213-1ce84b781688" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/c5a91bd7-3eb5-4d69-a51b-9bac6bf345f6>;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "Date range"@en .
+
+    <http://lblod.data.gift/concepts/2e114946-3f3e-43ee-af16-d7c7255977e3>
+        a <http://www.w3.org/2004/02/skos/core#Concept>, <http://www.w3.org/2000/01/rdf-schema#Class>;
+        <http://mu.semte.ch/vocabularies/core/uuid> "2e114946-3f3e-43ee-af16-d7c7255977e3" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/c5a91bd7-3eb5-4d69-a51b-9bac6bf345f6>;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "Text area"@en .
+
+    <http://lblod.data.gift/concepts/8ad9281f-fd76-4d99-b84c-9b7ae434fb2d>
+        a <http://www.w3.org/2004/02/skos/core#Concept>, <http://www.w3.org/2000/01/rdf-schema#Class>;
+        <http://mu.semte.ch/vocabularies/core/uuid> "8ad9281f-fd76-4d99-b84c-9b7ae434fb2d" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/c5a91bd7-3eb5-4d69-a51b-9bac6bf345f6>;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "Concept scheme - dropdown"@en .
+
+    <http://lblod.data.gift/concepts/be1e99bd-8c4c-4b9c-bc88-732c692ee069>
+        a <http://www.w3.org/2004/02/skos/core#Concept>, <http://www.w3.org/2000/01/rdf-schema#Class>;
+        <http://mu.semte.ch/vocabularies/core/uuid> "be1e99bd-8c4c-4b9c-bc88-732c692ee069" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/c5a91bd7-3eb5-4d69-a51b-9bac6bf345f6>;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "Files"@en .
+
+    <http://lblod.data.gift/concepts/e322303f-bace-4279-9267-ce8c7780dc97>
+        a <http://www.w3.org/2004/02/skos/core#Concept>, <http://www.w3.org/2000/01/rdf-schema#Class>;
+        <http://mu.semte.ch/vocabularies/core/uuid> "e322303f-bace-4279-9267-ce8c7780dc97" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/c5a91bd7-3eb5-4d69-a51b-9bac6bf345f6>;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "Urls"@en .
+
+    <http://lblod.data.gift/concepts/eabf6541-6fc3-4ac1-95b7-c9fab5f5a366>
+        a <http://www.w3.org/2004/02/skos/core#Concept>, <http://www.w3.org/2000/01/rdf-schema#Class>;
+        <http://mu.semte.ch/vocabularies/core/uuid> "eabf6541-6fc3-4ac1-95b7-c9fab5f5a366" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/c5a91bd7-3eb5-4d69-a51b-9bac6bf345f6>;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "Switch"@en .
+
+    <http://lblod.data.gift/concepts/32b6f216-6420-4fe5-94e9-37f0c5186550>
+        a <http://www.w3.org/2004/02/skos/core#Concept>, <http://www.w3.org/2000/01/rdf-schema#Class>;
+        <http://mu.semte.ch/vocabularies/core/uuid> "32b6f216-6420-4fe5-94e9-37f0c5186550" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/c5a91bd7-3eb5-4d69-a51b-9bac6bf345f6>;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "Checkbox"@en .
+
+    <http://lblod.data.gift/concepts/9ec72078-c1ef-4126-b635-d426847af8e9>
+        a <http://www.w3.org/2004/02/skos/core#Concept>, <http://www.w3.org/2000/01/rdf-schema#Class>;
+        <http://mu.semte.ch/vocabularies/core/uuid> "9ec72078-c1ef-4126-b635-d426847af8e9" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/c5a91bd7-3eb5-4d69-a51b-9bac6bf345f6>;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "Concept scheme - radio buttons"@en .
+
+    <http://lblod.data.gift/concepts/ce803ee6-fb61-43f6-a2f7-22968ca9a7e6>
+        a <http://www.w3.org/2004/02/skos/core#Concept>, <http://www.w3.org/2000/01/rdf-schema#Class>;
+        <http://mu.semte.ch/vocabularies/core/uuid> "ce803ee6-fb61-43f6-a2f7-22968ca9a7e6" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/c5a91bd7-3eb5-4d69-a51b-9bac6bf345f6>;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "Concept scheme - multi selector"@en .
+
+    <http://lblod.data.gift/concepts/ec03d1ee-8542-48d8-b75a-0597080b5aa6>
+        a <http://www.w3.org/2004/02/skos/core#Concept>, <http://www.w3.org/2000/01/rdf-schema#Class>;
+        <http://mu.semte.ch/vocabularies/core/uuid> "ec03d1ee-8542-48d8-b75a-0597080b5aa6" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/c5a91bd7-3eb5-4d69-a51b-9bac6bf345f6>;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "Search"@en .
+
+  }
+}

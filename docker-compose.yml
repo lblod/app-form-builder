@@ -37,3 +37,13 @@ services:
       - "logging=true"
     restart: always
     logging: *default-logging
+  migrations:
+    image: semtech/mu-migrations-service:0.7.0
+    links:
+      - virtuoso:database
+    volumes:
+      - ./config/migrations:/data/migrations
+    labels:
+      - "logging=true"
+    restart: always
+    logging: *default-logging
