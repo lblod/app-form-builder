@@ -47,3 +47,9 @@ services:
       - "logging=true"
     restart: always
     logging: *default-logging
+  file:
+    image: semtech/mu-file-service:3.1.0
+    links:
+      - virtuoso:database
+    volumes:
+      - ./data/files:/share
