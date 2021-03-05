@@ -1,0 +1,25 @@
+DELETE DATA {
+  GRAPH <http://mu.semte.ch/graphs/public> {
+    <http://lblod.data.gift/concepts/8ad9281f-fd76-4d99-b84c-9b7ae434fb2d>
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "Concept scheme - dropdown"@en .
+
+    <http://lblod.data.gift/concepts/9ec72078-c1ef-4126-b635-d426847af8e9>
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "Concept scheme - radio buttons"@en .
+
+    <http://lblod.data.gift/concepts/ce803ee6-fb61-43f6-a2f7-22968ca9a7e6>
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "Concept scheme - multi selector"@en .
+  }
+}
+;
+INSERT DATA {
+  GRAPH <http://mu.semte.ch/graphs/public> {
+    <http://lblod.data.gift/concepts/8ad9281f-fd76-4d99-b84c-9b7ae434fb2d>
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "Dropdown"@en .
+
+    <http://lblod.data.gift/concepts/9ec72078-c1ef-4126-b635-d426847af8e9>
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "Radio buttons"@en .
+
+    <http://lblod.data.gift/concepts/ce803ee6-fb61-43f6-a2f7-22968ca9a7e6>
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "Multi selector"@en .
+  }
+}

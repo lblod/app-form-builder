@@ -1,0 +1,186 @@
+INSERT DATA {
+  GRAPH <http://mu.semte.ch/graphs/public> {
+    <http://lblod.data.gift/concept-schemes/dde3d2a3-e848-47ea-ba44-0f2e565f04ab>
+        a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
+        <http://mu.semte.ch/vocabularies/core/uuid> "dde3d2a3-e848-47ea-ba44-0f2e565f04ab" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "Form validations"@en .
+
+    <http://lblod.data.gift/concepts/629bddbb-bf30-48d6-95af-c2f406bd9e8c>
+        a <http://www.w3.org/2004/02/skos/core#Concept>, <http://www.w3.org/2000/01/rdf-schema#Class>;
+        <http://mu.semte.ch/vocabularies/core/uuid> "629bddbb-bf30-48d6-95af-c2f406bd9e8c" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dde3d2a3-e848-47ea-ba44-0f2e565f04ab>;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "Required"@en ;
+        <http://mu.semte.ch/vocabularies/ext/validationName> "RequiredConstraint"@en .
+
+    <http://lblod.data.gift/concepts/b06cd462-ea9e-4273-9e7a-6d5b93a43f5f>
+        a <http://www.w3.org/2004/02/skos/core#Concept>, <http://www.w3.org/2000/01/rdf-schema#Class>;
+        <http://mu.semte.ch/vocabularies/core/uuid> "b06cd462-ea9e-4273-9e7a-6d5b93a43f5f" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dde3d2a3-e848-47ea-ba44-0f2e565f04ab>;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "Codelist"@en ;
+        <http://mu.semte.ch/vocabularies/ext/validationName> "Codelist"@en .
+
+    <http://lblod.data.gift/concepts/3555ddd7-2565-4700-957d-719e84f5b002>
+        a <http://www.w3.org/2004/02/skos/core#Concept>, <http://www.w3.org/2000/01/rdf-schema#Class>;
+        <http://mu.semte.ch/vocabularies/core/uuid> "3555ddd7-2565-4700-957d-719e84f5b002" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dde3d2a3-e848-47ea-ba44-0f2e565f04ab>;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "Exact value"@en ;
+        <http://mu.semte.ch/vocabularies/ext/validationName> "ExactValueConstraint"@en .
+
+    <http://lblod.data.gift/concepts/0bded4ae-c4dd-42ee-a9b0-f2232f48b2e8>
+        a <http://www.w3.org/2004/02/skos/core#Concept>, <http://www.w3.org/2000/01/rdf-schema#Class>;
+        <http://mu.semte.ch/vocabularies/core/uuid> "0bded4ae-c4dd-42ee-a9b0-f2232f48b2e8" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dde3d2a3-e848-47ea-ba44-0f2e565f04ab>;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "Uri"@en ;
+        <http://mu.semte.ch/vocabularies/ext/validationName> "UriConstraint"@en .
+
+    <http://lblod.data.gift/concepts/4a1eb2d0-22d7-4a66-a8ca-fb54e3cfda37>
+        a <http://www.w3.org/2004/02/skos/core#Concept>, <http://www.w3.org/2000/01/rdf-schema#Class>;
+        <http://mu.semte.ch/vocabularies/core/uuid> "4a1eb2d0-22d7-4a66-a8ca-fb54e3cfda37" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dde3d2a3-e848-47ea-ba44-0f2e565f04ab>;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "Valid date"@en ;
+        <http://mu.semte.ch/vocabularies/ext/validationName> "ValidDate"@en .
+
+    <http://lblod.data.gift/concepts/3630e744-760a-494f-95aa-130c09649af6>
+        a <http://www.w3.org/2004/02/skos/core#Concept>, <http://www.w3.org/2000/01/rdf-schema#Class>;
+        <http://mu.semte.ch/vocabularies/core/uuid> "3630e744-760a-494f-95aa-130c09649af6" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dde3d2a3-e848-47ea-ba44-0f2e565f04ab>;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "Valid date time"@en ;
+        <http://mu.semte.ch/vocabularies/ext/validationName> "ValidDateTime"@en .
+
+    <http://lblod.data.gift/concepts/d19cf942-98be-4369-a883-b607d3330c5f>
+        a <http://www.w3.org/2004/02/skos/core#Concept>, <http://www.w3.org/2000/01/rdf-schema#Class>;
+        <http://mu.semte.ch/vocabularies/core/uuid> "d19cf942-98be-4369-a883-b607d3330c5f" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dde3d2a3-e848-47ea-ba44-0f2e565f04ab>;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "Valid integer"@en ;
+        <http://mu.semte.ch/vocabularies/ext/validationName> "ValidInteger"@en .
+
+    <http://lblod.data.gift/concepts/50edc60f-3df1-4d49-b5e1-d86b65e8f8ec>
+        a <http://www.w3.org/2004/02/skos/core#Concept>, <http://www.w3.org/2000/01/rdf-schema#Class>;
+        <http://mu.semte.ch/vocabularies/core/uuid> "50edc60f-3df1-4d49-b5e1-d86b65e8f8ec" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dde3d2a3-e848-47ea-ba44-0f2e565f04ab>;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "Positive number"@en ;
+        <http://mu.semte.ch/vocabularies/ext/validationName> "PositiveNumber"@en .
+
+    <http://lblod.data.gift/concepts/2bf94470-a6d8-40c2-8295-707cc0922f1b>
+        a <http://www.w3.org/2004/02/skos/core#Concept>, <http://www.w3.org/2000/01/rdf-schema#Class>;
+        <http://mu.semte.ch/vocabularies/core/uuid> "2bf94470-a6d8-40c2-8295-707cc0922f1b" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dde3d2a3-e848-47ea-ba44-0f2e565f04ab>;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "Concept scheme"@en ;
+        <http://mu.semte.ch/vocabularies/ext/validationName> "ConceptSchemeConstraint"@en .
+
+    <http://lblod.data.gift/concepts/c09902d3-9421-49e9-a2e6-d3ac42abbca2>
+        a <http://www.w3.org/2004/02/skos/core#Concept>, <http://www.w3.org/2000/01/rdf-schema#Class>;
+        <http://mu.semte.ch/vocabularies/core/uuid> "c09902d3-9421-49e9-a2e6-d3ac42abbca2" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dde3d2a3-e848-47ea-ba44-0f2e565f04ab>;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "Valid year"@en ;
+        <http://mu.semte.ch/vocabularies/ext/validationName> "ValidYear"@en .
+
+    <http://lblod.data.gift/concepts/82d71dd7-8be2-4886-acb0-5d04a31c53e9>
+        a <http://www.w3.org/2004/02/skos/core#Concept>, <http://www.w3.org/2000/01/rdf-schema#Class>;
+        <http://mu.semte.ch/vocabularies/core/uuid> "82d71dd7-8be2-4886-acb0-5d04a31c53e9" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dde3d2a3-e848-47ea-ba44-0f2e565f04ab>;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "Valid email"@en ;
+        <http://mu.semte.ch/vocabularies/ext/validationName> "ValidEmail"@en .
+
+    <http://lblod.data.gift/concepts/26a91f04-58af-480f-b25f-19c48432a0a3>
+        a <http://www.w3.org/2004/02/skos/core#Concept>, <http://www.w3.org/2000/01/rdf-schema#Class>;
+        <http://mu.semte.ch/vocabularies/core/uuid> "26a91f04-58af-480f-b25f-19c48432a0a3" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dde3d2a3-e848-47ea-ba44-0f2e565f04ab>;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "Valid IBAN"@en ;
+        <http://mu.semte.ch/vocabularies/ext/validationName> "ValidIBAN"@en .
+
+    <http://lblod.data.gift/concepts/1bc4475c-7df0-46e7-9ede-a91a9bd93bd4>
+        a <http://www.w3.org/2004/02/skos/core#Concept>, <http://www.w3.org/2000/01/rdf-schema#Class>;
+        <http://mu.semte.ch/vocabularies/core/uuid> "1bc4475c-7df0-46e7-9ede-a91a9bd93bd4" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dde3d2a3-e848-47ea-ba44-0f2e565f04ab>;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "Valid phone number"@en ;
+        <http://mu.semte.ch/vocabularies/ext/validationName> "ValidPhoneNumber"@en .
+
+    <http://lblod.data.gift/concepts/60873518-5423-4121-ba6a-9635b18242a0>
+        a <http://www.w3.org/2004/02/skos/core#Concept>, <http://www.w3.org/2000/01/rdf-schema#Class>;
+        <http://mu.semte.ch/vocabularies/core/uuid> "60873518-5423-4121-ba6a-9635b18242a0" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dde3d2a3-e848-47ea-ba44-0f2e565f04ab>;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "Max length"@en ;
+        <http://mu.semte.ch/vocabularies/ext/validationName> "MaxLength"@en .
+
+    # input
+    <http://lblod.data.gift/concepts/68ccebe5-84fb-4976-a9b1-28b1d3ef3687>
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/629bddbb-bf30-48d6-95af-c2f406bd9e8c> ; # required
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/3555ddd7-2565-4700-957d-719e84f5b002> ; # exact value
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/82d71dd7-8be2-4886-acb0-5d04a31c53e9> ; # valid email
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/26a91f04-58af-480f-b25f-19c48432a0a3> ; # valid iban
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/1bc4475c-7df0-46e7-9ede-a91a9bd93bd4> ; # valid phone number
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/c09902d3-9421-49e9-a2e6-d3ac42abbca2> ; # valid year
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/60873518-5423-4121-ba6a-9635b18242a0> . # max length
+
+    # numerical input
+    <http://lblod.data.gift/concepts/c1be61dc-4ad1-4d21-a847-17c61d64c733>
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/629bddbb-bf30-48d6-95af-c2f406bd9e8c> ; # required
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/3555ddd7-2565-4700-957d-719e84f5b002> ; # exact value
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/d19cf942-98be-4369-a883-b607d3330c5f> ; # valid integer
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/50edc60f-3df1-4d49-b5e1-d86b65e8f8ec> ; # positive number
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/60873518-5423-4121-ba6a-9635b18242a0> . # max length
+
+    # date
+    <http://lblod.data.gift/concepts/4f1569e8-6ebc-4c61-9c3a-9affe7c38f28>
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/629bddbb-bf30-48d6-95af-c2f406bd9e8c> ; # required
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/3555ddd7-2565-4700-957d-719e84f5b002> ; # exact value
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/4a1eb2d0-22d7-4a66-a8ca-fb54e3cfda37> . # valid date
+
+    # datetime
+    <http://lblod.data.gift/concepts/3b2016b4-566e-47ab-83ff-46fe643b08ac>
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/629bddbb-bf30-48d6-95af-c2f406bd9e8c> ; # required
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/3555ddd7-2565-4700-957d-719e84f5b002> ; # exact value
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/3630e744-760a-494f-95aa-130c09649af6> . # valid datetime
+
+    # date range
+    <http://lblod.data.gift/concepts/bcb0457e-425b-4a39-8213-1ce84b781688>
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/629bddbb-bf30-48d6-95af-c2f406bd9e8c> . # required
+
+    # text area
+    <http://lblod.data.gift/concepts/2e114946-3f3e-43ee-af16-d7c7255977e3>
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/629bddbb-bf30-48d6-95af-c2f406bd9e8c> ; # required
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/3555ddd7-2565-4700-957d-719e84f5b002> ; # exact value
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/60873518-5423-4121-ba6a-9635b18242a0> . # max length
+
+    # files
+    <http://lblod.data.gift/concepts/be1e99bd-8c4c-4b9c-bc88-732c692ee069>
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/629bddbb-bf30-48d6-95af-c2f406bd9e8c> . # required
+
+    # urls
+    <http://lblod.data.gift/concepts/e322303f-bace-4279-9267-ce8c7780dc97>
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/629bddbb-bf30-48d6-95af-c2f406bd9e8c> ; # required
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/0bded4ae-c4dd-42ee-a9b0-f2232f48b2e8> . # uri
+
+    # switch
+    <http://lblod.data.gift/concepts/eabf6541-6fc3-4ac1-95b7-c9fab5f5a366>
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/629bddbb-bf30-48d6-95af-c2f406bd9e8c> ; # required
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/3555ddd7-2565-4700-957d-719e84f5b002> . # exact value
+
+    # checkbox
+    <http://lblod.data.gift/concepts/32b6f216-6420-4fe5-94e9-37f0c5186550>
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/629bddbb-bf30-48d6-95af-c2f406bd9e8c> ; # required
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/3555ddd7-2565-4700-957d-719e84f5b002> . # exact value
+
+    # concept scheme dropdown
+    <http://lblod.data.gift/concepts/8ad9281f-fd76-4d99-b84c-9b7ae434fb2d>
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/629bddbb-bf30-48d6-95af-c2f406bd9e8c> ; # required
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/2bf94470-a6d8-40c2-8295-707cc0922f1b> . # concept scheme
+
+    # concept scheme radio buttons
+    <http://lblod.data.gift/concepts/9ec72078-c1ef-4126-b635-d426847af8e9>
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/629bddbb-bf30-48d6-95af-c2f406bd9e8c> ; # required
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/2bf94470-a6d8-40c2-8295-707cc0922f1b> . # concept scheme
+
+    # concept scheme multi selector
+    <http://lblod.data.gift/concepts/ce803ee6-fb61-43f6-a2f7-22968ca9a7e6>
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/629bddbb-bf30-48d6-95af-c2f406bd9e8c> ; # required
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/b06cd462-ea9e-4273-9e7a-6d5b93a43f5f> . # codelist
+
+
+    # search
+    <http://lblod.data.gift/concepts/ec03d1ee-8542-48d8-b75a-0597080b5aa6>
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/629bddbb-bf30-48d6-95af-c2f406bd9e8c> . # required
+
+  }
+}
