@@ -59,6 +59,14 @@ defmodule Dispatcher do
   # end
 
   ###############
+  # FILES
+  ###############
+
+  match "/files/*path", %{ layer: :static } do
+    forward conn, path, "http://file/files/"
+  end
+
+  ###############
   # RESOURCES
   ###############
 
