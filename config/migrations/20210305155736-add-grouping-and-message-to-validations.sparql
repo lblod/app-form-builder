@@ -1,0 +1,76 @@
+INSERT DATA {
+  GRAPH <http://mu.semte.ch/graphs/public> {
+    # required
+    <http://lblod.data.gift/concepts/629bddbb-bf30-48d6-95af-c2f406bd9e8c>
+        <http://mu.semte.ch/vocabularies/ext/formGrouping> "Bag"@en ;
+        <http://mu.semte.ch/vocabularies/ext/errorMessage> "Dit veld is verplicht."@nl .
+
+    # codelist
+    <http://lblod.data.gift/concepts/b06cd462-ea9e-4273-9e7a-6d5b93a43f5f>
+        <http://mu.semte.ch/vocabularies/ext/formGrouping> "MatchEvery"@en ;
+        <http://mu.semte.ch/vocabularies/ext/customParameter> "conceptScheme"@en ;
+        <http://mu.semte.ch/vocabularies/ext/errorMessage> "Selecteer een waarde uit de lijst."@nl .
+
+    # exact value
+    <http://lblod.data.gift/concepts/3555ddd7-2565-4700-957d-719e84f5b002>
+        <http://mu.semte.ch/vocabularies/ext/customParameter> "customValue"@en ;
+        <http://mu.semte.ch/vocabularies/ext/formGrouping> "MatchSome"@en .
+
+    # uri
+    <http://lblod.data.gift/concepts/0bded4ae-c4dd-42ee-a9b0-f2232f48b2e8>
+        <http://mu.semte.ch/vocabularies/ext/formGrouping> "MatchEvery"@en ;
+        <http://mu.semte.ch/vocabularies/ext/errorMessage> "Gelieve een geldige URL op te geven. Zorg dat vooraan in de link altijd http://, https://, ftp:// of sftp:// staat."@nl .
+
+    # date
+    <http://lblod.data.gift/concepts/4a1eb2d0-22d7-4a66-a8ca-fb54e3cfda37>
+        <http://mu.semte.ch/vocabularies/ext/formGrouping> "MatchEvery"@en ;
+        <http://mu.semte.ch/vocabularies/ext/errorMessage> "Geef een geldige datum op."@nl .
+
+    # date time
+    <http://lblod.data.gift/concepts/3630e744-760a-494f-95aa-130c09649af6>
+        <http://mu.semte.ch/vocabularies/ext/formGrouping> "MatchEvery"@en ;
+        <http://mu.semte.ch/vocabularies/ext/errorMessage> "Geef een geldige datum en tijd op."@nl .
+
+    # valid integer
+    <http://lblod.data.gift/concepts/d19cf942-98be-4369-a883-b607d3330c5f>
+        <http://mu.semte.ch/vocabularies/ext/formGrouping> "MatchEvery"@en ;
+        <http://mu.semte.ch/vocabularies/ext/errorMessage> "Aantal moet een een geheel getal zijn."@nl .
+
+    # positive number
+    <http://lblod.data.gift/concepts/50edc60f-3df1-4d49-b5e1-d86b65e8f8ec>
+        <http://mu.semte.ch/vocabularies/ext/formGrouping> "MatchEvery"@en ;
+        <http://mu.semte.ch/vocabularies/ext/errorMessage> "Geef een positief aantal op."@nl .
+
+    # concept scheme
+    <http://lblod.data.gift/concepts/2bf94470-a6d8-40c2-8295-707cc0922f1b>
+        <http://mu.semte.ch/vocabularies/ext/formGrouping> "Bag"@en ;
+        <http://mu.semte.ch/vocabularies/ext/customParameter> "conceptScheme"@en ;
+        <http://mu.semte.ch/vocabularies/ext/errorMessage> "Selecteer een waarde uit de lijst."@nl .
+
+    # valid year
+    <http://lblod.data.gift/concepts/c09902d3-9421-49e9-a2e6-d3ac42abbca2>
+        <http://mu.semte.ch/vocabularies/ext/formGrouping> "MatchEvery"@en ;
+        <http://mu.semte.ch/vocabularies/ext/errorMessage> "Geef een geldig jaar op."@nl .
+
+    # valid email
+    <http://lblod.data.gift/concepts/82d71dd7-8be2-4886-acb0-5d04a31c53e9>
+        <http://mu.semte.ch/vocabularies/ext/formGrouping> "MatchEvery"@en ;
+        <http://mu.semte.ch/vocabularies/ext/errorMessage> "Geef een geldig e-mailadres op."@nl .
+
+    # valid iban
+    <http://lblod.data.gift/concepts/26a91f04-58af-480f-b25f-19c48432a0a3>
+        <http://mu.semte.ch/vocabularies/ext/formGrouping> "MatchEvery"@en ;
+        <http://mu.semte.ch/vocabularies/ext/errorMessage> "Geef een geldig IBAN op."@nl .
+
+    # valid phone number
+    <http://lblod.data.gift/concepts/1bc4475c-7df0-46e7-9ede-a91a9bd93bd4>
+        <http://mu.semte.ch/vocabularies/ext/formGrouping> "MatchEvery"@en ;
+        <http://mu.semte.ch/vocabularies/ext/errorMessage> "Geef een geldig telefoonnummer in."@nl .
+
+    # max length
+    <http://lblod.data.gift/concepts/60873518-5423-4121-ba6a-9635b18242a0>
+        <http://mu.semte.ch/vocabularies/ext/formGrouping> "MatchEvery"@en ;
+        <http://mu.semte.ch/vocabularies/ext/customParameter> "max"@en ;
+        <http://mu.semte.ch/vocabularies/ext/errorMessage> "Max. karakters overschreden."@nl .
+  }
+}
