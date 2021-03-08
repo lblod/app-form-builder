@@ -62,7 +62,19 @@ defmodule Dispatcher do
   # FILES
   ###############
 
-  match "/files/*path", %{ layer: :static } do
+  get "/files/:id/download" do
+    forward conn, [], "http://file/files/" <> id <> "/download"
+  end
+
+  get "/files/*path" do
+    forward conn, path, "http://resource/files/"
+  end
+
+  post "/file-service/files/*path" do
+    forward conn, path, "http://file/files/"
+  end
+
+  delete "/files/*path" do
     forward conn, path, "http://file/files/"
   end
 
