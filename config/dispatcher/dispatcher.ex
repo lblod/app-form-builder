@@ -70,9 +70,9 @@ defmodule Dispatcher do
   # RESOURCES
   ###############
 
-  # get "/bestuurseenheden/*path", %{ layer: :resources, accept: %{ json: true } } do
-  #   Proxy.forward conn, path, "http://cache/bestuurseenheden/"
-  # end
+  match "/generated-forms/*path", %{ layer: :resources, accept: %{ json: true } } do
+    forward conn, path, "http://resource/generated-forms/"
+  end
 
   # get "/werkingsgebieden/*path", %{ layer: :resources, accept: %{ json: true } } do
   #   Proxy.forward conn, path, "http://cache/werkingsgebieden/"
