@@ -1,0 +1,7 @@
+INSERT DATA {
+  GRAPH <http://mu.semte.ch/graphs/public> {
+    # valid phone number
+    <http://lblod.data.gift/concepts/1bc4475c-7df0-46e7-9ede-a91a9bd93bd4>
+        <http://mu.semte.ch/vocabularies/ext/customParameter> "defaultCountry"@en .
+  }
+}
