@@ -53,3 +53,9 @@ services:
       - virtuoso:database
     volumes:
       - ./data/files:/share
+  resource:
+    image: semtech/mu-cl-resources:1.20.0
+    links:
+      - virtuoso:database
+    volumes:
+      - ./config/resources:/config
