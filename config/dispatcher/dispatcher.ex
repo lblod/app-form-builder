@@ -74,6 +74,10 @@ defmodule Dispatcher do
     forward conn, path, "http://resource/generated-forms/"
   end
 
+  match "/user-tests/*path", %{ layer: :resources, accept: %{ json: true } } do
+    forward conn, path, "http://resource/user-tests/"
+  end
+
   # get "/werkingsgebieden/*path", %{ layer: :resources, accept: %{ json: true } } do
   #   Proxy.forward conn, path, "http://cache/werkingsgebieden/"
   # end
