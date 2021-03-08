@@ -1,0 +1,11 @@
+INSERT {
+  GRAPH ?g {
+    ?s <http://www.w3.org/2004/02/skos/core#inScheme> ?o .
+  }
+}
+WHERE {
+  GRAPH ?g {
+    ?s <http://www.w3.org/2004/02/skos/core#topConceptOf> ?o .
+    FILTER NOT EXISTS { ?s <http://www.w3.org/2004/02/skos/core#inScheme> ?o . }
+  }
+}
