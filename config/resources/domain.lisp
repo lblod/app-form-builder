@@ -8,6 +8,7 @@
                 (:comment :string ,(s-prefix "skos:comment"))
                 (:ttl-code :string , (s-prefix "ext:ttlCode")))
   :resource-base (s-url "http://data.lblod.info/generated-forms/")
+  :features `(include-uri)
   :on-path "generated-forms")
 
 (define-resource file ()
@@ -23,3 +24,13 @@
   :resource-base (s-url "http://data.example.com/files/")
   :features `(include-uri)
   :on-path "files")
+
+(define-resource user-test ()
+  :class (s-prefix "ext:UserTest")
+  :properties `((:created :datetime ,(s-prefix "dct:created"))
+                (:modified :datetime ,(s-prefix "dct:modified")))
+  :has-one `((generated-form :via ,(s-prefix "dct:source")
+                   :as "form"))
+  :resource-base (s-url "http://data.lblod.info/user-tests/")
+  :features `(include-uri)
+  :on-path "user-tests")
