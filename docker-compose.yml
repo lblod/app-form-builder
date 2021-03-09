@@ -8,6 +8,14 @@ x-logging:
     max-file: "3"
 
 services:
+  frontend:
+    image: lblod/frontend-poc-form-builder:0.1.0
+    volumes:
+      - ./config/frontend:/config
+    labels:
+      - "logging=true"
+    restart: always
+    logging: *default-logging
   identifier:
     image: semtech/mu-identifier:1.9.0
     environment:
@@ -53,9 +61,17 @@ services:
       - virtuoso:database
     volumes:
       - ./data/files:/share
+    labels:
+      - "logging=true"
+    restart: always
+    logging: *default-logging
   resource:
     image: semtech/mu-cl-resources:1.20.0
     links:
       - virtuoso:database
     volumes:
       - ./config/resources:/config
+    labels:
+      - "logging=true"
+    restart: always
+    logging: *default-logging
