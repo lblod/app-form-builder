@@ -20,8 +20,6 @@ defmodule Dispatcher do
   ###############
   # STATIC
   ###############
-
-  # frontend
   match "/assets/*path", %{ layer: :static } do
     forward conn, path, "http://frontend/assets/"
   end
@@ -34,6 +32,13 @@ defmodule Dispatcher do
     send_resp( conn, 404, "" )
   end
 
+  #################
+  # FRONTEND PAGES
+  #################
+  match "/*_path", %{ layer: :frontend_fallback, accept: %{ html: true } } do
+    forward conn, [], "http://frontend/index.html"
+  end
+
   ###############
   # SPARQL
   ###############
@@ -44,19 +49,6 @@ defmodule Dispatcher do
   match "/sparql", %{ layer: :sparql, accept: %{ sparql: true } } do # this for exectting query
     forward conn, [], "http://virtuoso:8890/sparql"
   end
-
-  #################
-  # FRONTEND PAGES
-  #################
-
-  match "/*path", %{ layer: :frontend_fallback, accept: %{ html: true } } do
-    # We forward path for fastboot
-    forward conn, path, "http://frontend/"
-  end
-
-  # match "/favicon.ico", @any do
-  #   send_resp( conn, 404, "" )
-  # end
 
   ###############
   # FILES
@@ -89,19 +81,6 @@ defmodule Dispatcher do
   match "/user-tests/*path", %{ layer: :resources, accept: %{ json: true } } do
     forward conn, path, "http://resource/user-tests/"
   end
-
-  # get "/werkingsgebieden/*path", %{ layer: :resources, accept: %{ json: true } } do
-  #   Proxy.forward conn, path, "http://cache/werkingsgebieden/"
-  # end
-  # get "/bestuurseenheid-classificatie-codes/*path", %{ layer: :resources, accept: %{ json: true } } do
-  #   Proxy.forward conn, path, "http://cache/bestuurseenheid-classificatie-codes/"
-  # end
-  # get "/bestuursorganen/*path", %{ layer: :resources, accept: %{ json: true } } do
-  #   Proxy.forward conn, path, "http://cache/bestuursorganen/"
-  # end
-  # get "/bestuursorgaan-classificatie-codes/*path", %{ layer: :resources, accept: %{ json: true } } do
-  #   Proxy.forward conn, path, "http://cache/bestuursorgaan-classificatie-codes/"
-  # end
 
   #################
   # NOT FOUND

@@ -1,6 +1,8 @@
 version: '3.7'
 
 services:
+  frontend:
+    restart: "no"
   identifier:
     restart: "no"
     ports:
@@ -12,4 +14,8 @@ services:
     ports:
       - "8890:8890"
   migrations:
+    restart: "no"
+  file:
+    restart: "no"
+  resource:
     restart: "no"
