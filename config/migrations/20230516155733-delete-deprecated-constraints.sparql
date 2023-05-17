@@ -1,0 +1,37 @@
+DELETE DATA {
+  GRAPH <http://mu.semte.ch/graphs/public> {
+    # input
+    <http://lblod.data.gift/concepts/68ccebe5-84fb-4976-a9b1-28b1d3ef3687>
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/3555ddd7-2565-4700-957d-719e84f5b002> ; # exact value
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/c09902d3-9421-49e9-a2e6-d3ac42abbca2> . # valid year
+
+    # numerical input
+    <http://lblod.data.gift/concepts/c1be61dc-4ad1-4d21-a847-17c61d64c733>
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/3555ddd7-2565-4700-957d-719e84f5b002> . # exact value
+
+    # date
+    <http://lblod.data.gift/concepts/4f1569e8-6ebc-4c61-9c3a-9affe7c38f28>
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/3555ddd7-2565-4700-957d-719e84f5b002> ; # exact value
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/4a1eb2d0-22d7-4a66-a8ca-fb54e3cfda37> . # valid date
+
+    # text area
+    <http://lblod.data.gift/concepts/2e114946-3f3e-43ee-af16-d7c7255977e3>
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/3555ddd7-2565-4700-957d-719e84f5b002> . # exact value
+
+    # switch
+    <http://lblod.data.gift/concepts/eabf6541-6fc3-4ac1-95b7-c9fab5f5a366>
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/3555ddd7-2565-4700-957d-719e84f5b002> . # exact value
+
+    # concept scheme dropdown
+    <http://lblod.data.gift/concepts/8ad9281f-fd76-4d99-b84c-9b7ae434fb2d>
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/2bf94470-a6d8-40c2-8295-707cc0922f1b> . # concept scheme
+
+    # concept scheme multi selector
+    <http://lblod.data.gift/concepts/ce803ee6-fb61-43f6-a2f7-22968ca9a7e6>
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/b06cd462-ea9e-4273-9e7a-6d5b93a43f5f> . # codelist
+
+    # checkbox
+    <http://lblod.data.gift/concepts/32b6f216-6420-4fe5-94e9-37f0c5186550>
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/3555ddd7-2565-4700-957d-719e84f5b002> . # exact value
+  }
+};
