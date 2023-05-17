@@ -1,0 +1,38 @@
+PREFIX ext: <http://mu.semte.ch/vocabularies/ext/>
+
+DELETE DATA {
+  GRAPH <http://mu.semte.ch/graphs/public> {
+
+    # DATE & TIME COMPONENT
+    <http://lblod.data.gift/concepts/3b2016b4-566e-47ab-83ff-46fe643b08ac>
+        a <http://www.w3.org/2004/02/skos/core#Concept>, <http://www.w3.org/2000/01/rdf-schema#Class>;
+        <http://mu.semte.ch/vocabularies/core/uuid> "3b2016b4-566e-47ab-83ff-46fe643b08ac" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/c5a91bd7-3eb5-4d69-a51b-9bac6bf345f6>;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "Date and time"@en .
+
+    <http://lblod.data.gift/concepts/3b2016b4-566e-47ab-83ff-46fe643b08ac>
+      ext:displayType "dateTime" ;
+      ext:usesConceptScheme "false"^^xsd:boolean .
+
+    <http://lblod.data.gift/concepts/3b2016b4-566e-47ab-83ff-46fe643b08ac>
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/629bddbb-bf30-48d6-95af-c2f406bd9e8c> ; # required
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/3555ddd7-2565-4700-957d-719e84f5b002> ; # exact value
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/3630e744-760a-494f-95aa-130c09649af6> . # valid datetime
+
+
+    # DATE RANGE COMPONENT
+    <http://lblod.data.gift/concepts/bcb0457e-425b-4a39-8213-1ce84b781688>
+      a <http://www.w3.org/2004/02/skos/core#Concept>, <http://www.w3.org/2000/01/rdf-schema#Class>;
+      <http://mu.semte.ch/vocabularies/core/uuid> "bcb0457e-425b-4a39-8213-1ce84b781688" ;
+      <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/c5a91bd7-3eb5-4d69-a51b-9bac6bf345f6>;
+      <http://www.w3.org/2004/02/skos/core#prefLabel> "Date range"@en .
+
+
+    <http://lblod.data.gift/concepts/bcb0457e-425b-4a39-8213-1ce84b781688>
+      ext:displayType "dateRange" ;
+      ext:usesConceptScheme "false"^^xsd:boolean .
+
+    <http://lblod.data.gift/concepts/bcb0457e-425b-4a39-8213-1ce84b781688>
+        <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/629bddbb-bf30-48d6-95af-c2f406bd9e8c> . # required
+  }
+}
