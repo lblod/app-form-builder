@@ -1,12 +1,16 @@
 version: '3.7'
 
 services:
+  mocklogin:
+    image: lblod/mock-login-service:0.3.1
   frontend:
     restart: "no"
   identifier:
     restart: "no"
     ports:
       - "80:80"
+    environment:
+      LOG_ALLOWED_GROUPS: "on"
   dispatcher:
     restart: "no"
   virtuoso:
