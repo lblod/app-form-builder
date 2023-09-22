@@ -33,6 +33,16 @@ services:
       - "logging=true"
     restart: always
     logging: *default-logging
+  database:
+    image: semtech/mu-authorization:0.6.0-beta.8
+    environment:
+      MU_SPARQL_ENDPOINT: "http://virtuoso:8890/sparql"
+    volumes:
+      - ./config/authorization:/config
+    labels:
+      - "logging=true"
+    restart: always
+    logging: *default-logging
   virtuoso:
     image: tenforce/virtuoso:1.3.2-virtuoso7.2.2
     environment:
