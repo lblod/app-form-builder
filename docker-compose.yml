@@ -47,7 +47,7 @@ services:
     image: tenforce/virtuoso:1.3.2-virtuoso7.2.2
     environment:
       SPARQL_UPDATE: "true"
-      DEFAULT_GRAPH: "http://mu.semte.ch/graphs/form-builder"
+      DEFAULT_GRAPH: "http://mu.semte.ch/graphs/application"
     volumes:
       - ./data/db:/data
       - ./config/virtuoso/virtuoso.ini:/data/virtuoso.ini

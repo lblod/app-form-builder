@@ -49,17 +49,11 @@ defmodule Acl.UserGroups.Config do
         useage: [:read, :write],
         access: access_by_role( "ABB" ),
         graphs: [ %GraphSpec{
-                    graph: "http://mu.semte.ch/graphs/form-builder/",
+                    graph: "http://mu.semte.ch/application",
                     constraint: %ResourceConstraint{
                       resource_types: [
-                        "http://lblod.data.gift/vocabularies/forms/",
-                        "http://www.w3.org/ns/shacl#",
-                        "http://mu.semte.ch/vocabularies/core/",
-                        "http://lblod.data.gift/display-types/",
-                        "http://mu.semte.ch/vocabularies/ext/",
-                        "http://schema.org/",
-                        "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-                        "http://www.semanticdesktop.org/ontologies/2007/01/19/nie#",
+                        "http://data.lblod.info/generated-forms",
+                        "http://data.lblod.info/user-test",
                       ] 
                     } }
                 ] },
