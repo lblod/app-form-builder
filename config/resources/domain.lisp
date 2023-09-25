@@ -34,3 +34,5 @@
   :resource-base (s-url "http://data.lblod.info/user-tests/")
   :features `(include-uri)
   :on-path "user-tests")
+
+  (read-domain-file "slave-users-domain.lisp")

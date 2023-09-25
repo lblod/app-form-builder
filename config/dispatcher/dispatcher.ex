@@ -104,4 +104,12 @@ defmodule Dispatcher do
     forward conn, path, "http://mocklogin/sessions/"
   end
 
+  match "/gebruikers/*path", %{ layer: :resources, accept: %{ json: true } } do
+    forward conn, path, "http://resource/gebruikers/"
+  end
+
+  match "/accounts/*path", %{ layer: :resources, accept: %{ json: true } } do
+    forward conn, path, "http://resource/accounts/"
+  end
+
 end
