@@ -35,6 +35,9 @@ defmodule Acl.UserGroups.Config do
                     graph: "http://mu.semte.ch/graphs/public",
                     constraint: %ResourceConstraint{
                       resource_types: [
+                        "http://xmlns.com/foaf/0.1/Person",
+                        "http://xmlns.com/foaf/0.1/OnlineAccount",
+                        "http://data.vlaanderen.be/ns/besluit#Bestuurseenheid",
                       ]
                     } },
                     %GraphSpec{
@@ -47,7 +50,7 @@ defmodule Acl.UserGroups.Config do
       %GroupSpec{
         name: "form-builder-rw",
         useage: [:read, :write],
-        access: access_by_role( "ABB" ),
+        access: access_by_role( "FormBuilderAdmin" ),
         graphs: [ %GraphSpec{
                     graph: "http://mu.semte.ch/application",
                     constraint: %ResourceConstraint{
