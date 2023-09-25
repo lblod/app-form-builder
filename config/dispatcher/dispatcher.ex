@@ -97,4 +97,11 @@ defmodule Dispatcher do
     send_resp( conn, 404, "Route not found.  See config/dispatcher.ex" )
   end
 
+  #################
+  # Login
+  #################
+  match "/mock/sessions/*path" do
+    forward conn, path, "http://mocklogin/sessions/"
+  end
+
 end
