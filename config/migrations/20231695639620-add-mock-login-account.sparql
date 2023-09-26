@@ -6,7 +6,7 @@ PREFIX ext:<http://mu.semte.ch/vocabularies/ext/>
 
 
 INSERT DATA {
-  GRAPH <http://mu.semte.ch/graphs/public> {
+  GRAPH <http://mu.semte.ch/application> {
     <http://data.lblod.info/id/persoon/74f70895-d182-4466-ad34-690788c6e514> a foaf:Person ;
       mu:uuid "74f70895-d182-4466-ad34-690788c6e514" ;
       foaf:firstName "Mock" ;

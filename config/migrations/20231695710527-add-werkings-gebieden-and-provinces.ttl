@@ -1,0 +1,15 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns1:	<http://www.w3.org/ns/prov#> .
+<http://data.lblod.info/id/werkingsgebieden/56e8ec85-e03f-4168-b062-737f9704cd2a>	rdf:type	ns1:Location .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://data.lblod.info/id/werkingsgebieden/56e8ec85-e03f-4168-b062-737f9704cd2a>	rdfs:label	"Deinze" .
+@prefix ns3:	<http://mu.semte.ch/vocabularies/core/> .
+<http://data.lblod.info/id/werkingsgebieden/56e8ec85-e03f-4168-b062-737f9704cd2a>	ns3:uuid	"56e8ec85-e03f-4168-b062-737f9704cd2a" .
+@prefix ns4:	<http://mu.semte.ch/vocabularies/ext/> .
+<http://data.lblod.info/id/werkingsgebieden/56e8ec85-e03f-4168-b062-737f9704cd2a>	ns4:werkingsgebiedNiveau	"Gemeente" .
+@prefix ns5:	<http://data.lblod.info/id/werkingsgebieden/> .
+
+<http://data.lblod.info/id/werkingsgebieden/3a9b09cbccb798c8f9d5bad3fce1476bce1ee014165ba243488b0af690d0f464>	rdf:type	ns1:Location ;
+	rdfs:label	"Antwerpen" ;
+	ns3:uuid	"3a9b09cbccb798c8f9d5bad3fce1476bce1ee014165ba243488b0af690d0f464" ;
+	ns4:werkingsgebiedNiveau	"Gemeente" .
