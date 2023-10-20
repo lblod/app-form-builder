@@ -1,5 +1,9 @@
 (in-package :mu-cl-resources)
 
+(defparameter *include-count-in-paginated-responses* t
+  "when non-nil, all paginated listings will contain the number
+   of responses in the result object's meta.")
+
 (define-resource generated-form ()
   :class (s-prefix "ext:GeneratedForm")
   :properties `((:created :string ,(s-prefix "dct:created"))
