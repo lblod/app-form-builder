@@ -34,4 +34,4 @@ DELETE DATA {
     <http://lblod.data.gift/concepts/32b6f216-6420-4fe5-94e9-37f0c5186550>
         <http://mu.semte.ch/vocabularies/ext/canHaveValidation> <http://lblod.data.gift/concepts/3555ddd7-2565-4700-957d-719e84f5b002> . # exact value
   }
-};
+}

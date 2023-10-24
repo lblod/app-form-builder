@@ -1,3 +1,6 @@
+# IDE
+.vscode
+
 # Virtuoso files /data/db
 /data/db/*
 /data/exports/*
