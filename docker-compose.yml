@@ -9,7 +9,7 @@ x-logging:
 
 services:
   frontend:
-    image: lblod/frontend-form-builder:0.6.0
+    image: lblod/frontend-form-builder:0.8.0
     volumes:
       - ./config/frontend:/config
     labels:
