@@ -1,0 +1,17 @@
+INSERT DATA {
+  GRAPH <http://mu.semte.ch/application> {
+<http://lblod.data.gift/concept-schemes/33e233eb-6a9b-4141-b607-2ff72fe2ded2> <http://mu.semte.ch/vocabularies/core/uuid> "33e233eb-6a9b-4141-b607-2ff72fe2ded2" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Subsidy Measures"@en .
+
+<http://lblod.data.gift/concepts/1df4b56a-3ccd-450d-93dc-317fda1ada38> <http://data.europa.eu/m8g/hasCriterion> <http://data.lblod.info/criteriums/d24b6ac6-afa7-4f23-b5aa-ade16ed505ae> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "1df4b56a-3ccd-450d-93dc-317fda1ada38" ;
+	<http://purl.org/dc/terms/title> "Noodopvang (kinderen)"@nl ;
+	<http://purl.org/vocab/cpsv#follows> <http://data.lblod.info/subsidieprocedurestappen/457c23ba-4d54-4092-9f9c-e575cc7bd880> ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.vlaanderen.be/ns/subsidie#SubsidiemaatregelAanbod>, <http://www.w3.org/2000/01/rdf-schema#Class>, <http://www.w3.org/2004/02/skos/core#Concept>, <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+	<http://www.w3.org/2004/02/skos/core#definition> "Subsidy Measure: emergency child care"@en ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/33e233eb-6a9b-4141-b607-2ff72fe2ded2> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Noodopvang (kinderen)"@nl .
+
+  }
+}
