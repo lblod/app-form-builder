@@ -1,7 +1,6 @@
 (define-resource concept-scheme ()
   :class (s-prefix "skos:ConceptScheme")
   :properties `(
-    (:uuid :string ,(s-prefix "core:uuid"))
     (:prefLabel :string ,(s-prefix "skos:prefLabel"))
     )
   :has-many `((concept :via ,(s-prefix "core:inScheme")
@@ -15,7 +14,6 @@
 (define-resource concept ()
   :class (s-prefix "skos:Concept")
   :properties `(
-    (:uuid :string ,(s-prefix "core:uuid"))
     (:prefLabel :string ,(s-prefix "skos:prefLabel"))
     )
   :has-many `((concept-scheme :via ,(s-prefix "core:inScheme")
