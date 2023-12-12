@@ -1,0 +1,40 @@
+INSERT DATA {
+  GRAPH <http://mu.semte.ch/application> {
+<http://publications.europa.eu/resource/authority/human-sex> <http://mu.semte.ch/vocabularies/core/uuid> "5acdc497fb60a00001000000" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "Human sex Named Authority List" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Human sex Named Authority List" ;
+	<http://www.w3.org/2002/07/owl#versionInfo> "20170920-0" .
+
+<http://publications.europa.eu/resource/authority/human-sex/FEMALE> <http://mu.semte.ch/vocabularies/core/uuid> "5ab0e9b8a3b2ca7c5e000029" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mu.semte.ch/vocabularies/ext/GeslachtCode>, <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/human-sex> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Vrouwelijk" ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/human-sex> .
+
+<http://publications.europa.eu/resource/authority/human-sex/MALE> <http://mu.semte.ch/vocabularies/core/uuid> "5ab0e9b8a3b2ca7c5e000028" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mu.semte.ch/vocabularies/ext/GeslachtCode>, <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/human-sex> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Mannelijk" ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/human-sex> .
+
+<http://publications.europa.eu/resource/authority/human-sex/NAP> <http://mu.semte.ch/vocabularies/core/uuid> "5accdb8464a9790001000001" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mu.semte.ch/vocabularies/ext/GeslachtCode>, <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/human-sex> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "niet van toepassing" ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/human-sex> .
+
+<http://publications.europa.eu/resource/authority/human-sex/NKN> <http://mu.semte.ch/vocabularies/core/uuid> "5accdb4d64a9790001000000" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mu.semte.ch/vocabularies/ext/GeslachtCode>, <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/human-sex> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "niet gekend" ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/human-sex> .
+
+<http://publications.europa.eu/resource/authority/human-sex/OP_DATPRO> <http://mu.semte.ch/vocabularies/core/uuid> "5accdbd264a9790001000002" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mu.semte.ch/vocabularies/ext/GeslachtCode>, <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/human-sex> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Voorlopige gegevens" ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/human-sex> .
+
+  }
+}
