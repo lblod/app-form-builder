@@ -1,0 +1,56 @@
+INSERT DATA {
+  GRAPH <http://mu.semte.ch/application> {
+<https://data.vlaanderen.be/id/concept/BesluitDocumentType/0ee460b1-5ef4-4d4a-b5e1-e2d7c1d5086e> <http://lblod.data.gift/vocabularies/besluit/decidableBy> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/36a82ba0-7ff1-4697-a9dd-2e94df73b721>, <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000000>, <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001>, <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000002>, <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000003>, <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/80310756-ce0a-4a1b-9b8e-7c01b6cc7a2d>, <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/b156b67f-c5f4-4584-9b30-4c090be02fdc>, <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/cc4e2d67-603b-4784-9b61-e50bac1ec089>, <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/cd93f147-3ece-4308-acab-5c5ada3ec63d>, <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/d01bb1f6-2439-4e33-9c25-1fc295de2e71> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "0ee460b1-5ef4-4d4a-b5e1-e2d7c1d5086e" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class>, <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#definition> "Andere documenten dan budget, jaarrekening en meerjarenplan(aanpassing) die als onderdeel of bijlage bij een beleidsrapport van de beleids- en beheerscyclus verplicht, vrijwillig of op vraag worden aangeleverd." ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>, <https://data.vlaanderen.be/id/conceptscheme/BesluitDocumentType> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Andere documenten BBC" ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitDocumentType> .
+
+<https://data.vlaanderen.be/id/concept/BesluitDocumentType/13fefad6-a9d6-4025-83b5-e4cbee3a8965> <http://lblod.data.gift/vocabularies/besluit/decidableBy> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/36a82ba0-7ff1-4697-a9dd-2e94df73b721>, <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000000>, <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001>, <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000002>, <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000003>, <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/80310756-ce0a-4a1b-9b8e-7c01b6cc7a2d>, <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/b156b67f-c5f4-4584-9b30-4c090be02fdc>, <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/cc4e2d67-603b-4784-9b61-e50bac1ec089>, <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/cd93f147-3ece-4308-acab-5c5ada3ec63d>, <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/d01bb1f6-2439-4e33-9c25-1fc295de2e71> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "13fefad6-a9d6-4025-83b5-e4cbee3a8965" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class>, <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#definition> "Overzicht van de formeel aanvaard te behandelen onderwerpen op een zitting." ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>, <https://data.vlaanderen.be/id/conceptscheme/BesluitDocumentType> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Agenda" ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitDocumentType> .
+
+<https://data.vlaanderen.be/id/concept/BesluitDocumentType/3fa67785-ffdc-4b30-8880-2b99d97b4dee> <http://lblod.data.gift/vocabularies/besluit/decidableBy> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/36a82ba0-7ff1-4697-a9dd-2e94df73b721>, <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000000>, <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001>, <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000002>, <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000003>, <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/80310756-ce0a-4a1b-9b8e-7c01b6cc7a2d>, <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/a3922c6d-425b-474f-9a02-ffb71a436bfc>, <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/b156b67f-c5f4-4584-9b30-4c090be02fdc>, <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/cc4e2d67-603b-4784-9b61-e50bac1ec089>, <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/cd93f147-3ece-4308-acab-5c5ada3ec63d>, <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/d01bb1f6-2439-4e33-9c25-1fc295de2e71>, <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/ea446861-2c51-45fa-afd3-4e4a37b71562> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "3fa67785-ffdc-4b30-8880-2b99d97b4dee" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class>, <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#definition> "Lijst met de titels en beschrijvingen van de besluiten die op dezelfde zitting zijn genomen." ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>, <https://data.vlaanderen.be/id/conceptscheme/BesluitDocumentType> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Besluitenlijst" ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitDocumentType> .
+
+<https://data.vlaanderen.be/id/concept/BesluitDocumentType/8e791b27-7600-4577-b24e-c7c29e0eb773> <http://lblod.data.gift/vocabularies/besluit/decidableBy> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/36a82ba0-7ff1-4697-a9dd-2e94df73b721>, <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000000>, <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001>, <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000002>, <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000003>, <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/80310756-ce0a-4a1b-9b8e-7c01b6cc7a2d>, <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/b156b67f-c5f4-4584-9b30-4c090be02fdc>, <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/cc4e2d67-603b-4784-9b61-e50bac1ec089>, <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/cd93f147-3ece-4308-acab-5c5ada3ec63d>, <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/d01bb1f6-2439-4e33-9c25-1fc295de2e71> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "8e791b27-7600-4577-b24e-c7c29e0eb773" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class>, <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#definition> "De formele notulen van een zitting." ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>, <https://data.vlaanderen.be/id/conceptscheme/BesluitDocumentType> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Notulen" ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitDocumentType> .
+
+<https://data.vlaanderen.be/id/concept/BesluitDocumentType/9d5bfaca-bbf2-49dd-a830-769f91a6377b> <http://mu.semte.ch/vocabularies/core/uuid> "9d5bfaca-bbf2-49dd-a830-769f91a6377b" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class>, <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#definition> "Uittreksel van een besluit van een zitting." ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>, <https://data.vlaanderen.be/id/conceptscheme/BesluitDocumentType> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Uittreksel" ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitDocumentType> .
+
+<https://data.vlaanderen.be/id/concept/BesluitDocumentType/e274f1b1-7e84-457d-befe-070afec6b752> <http://lblod.data.gift/vocabularies/besluit/decidableBy> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000000>, <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "e274f1b1-7e84-457d-befe-070afec6b752" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class>, <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#definition> "Afschrift van het verslag dat bij het indienen van het jaarlijkse budget bij de gemeente- of provincieoverheid gevoegd wordt over de concrete toepassing van de betrokkenheid van de plaatselijke kerk- of geloofsgemeenschap bij het geheel van de lokale gemeenschap met opgave van de wettelijk vereiste elementen." ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>, <https://data.vlaanderen.be/id/conceptscheme/BesluitDocumentType> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Verslag lokale betrokkenheid eredienstbesturen" ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitDocumentType> .
+
+<https://data.vlaanderen.be/id/conceptscheme/BesluitDocumentType> <http://mu.semte.ch/vocabularies/core/uuid> "04dabf13-31ce-4424-8aa6-17a192cb6c6b" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+	<http://www.w3.org/2004/02/skos/core#definition> "Het type van het document. Bijvoorbeeld: besluitenlijst, agenda,...." ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Besluit document type" .
+
+  }
+}
