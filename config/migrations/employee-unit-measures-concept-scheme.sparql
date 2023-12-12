@@ -1,0 +1,20 @@
+INSERT DATA {
+  GRAPH <http://mu.semte.ch/application> {
+<http://lblod.data.gift/concept-schemes/6facb675-63f5-44ef-a3bd-38a0cb87e1c5> <http://mu.semte.ch/vocabularies/core/uuid> "6facb675-63f5-44ef-a3bd-38a0cb87e1c5" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Employee unit measures"@en, "Meeteenheden voor werknemers"@nl .
+
+<http://lblod.data.gift/concepts/a97325c1-f572-4dd8-8952-c2cb254f114a> <http://mu.semte.ch/vocabularies/core/uuid> "a97325c1-f572-4dd8-8952-c2cb254f114a" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://lblod.data.gift/vocabularies/employee/UnitMeasure>, <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/6facb675-63f5-44ef-a3bd-38a0cb87e1c5> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Voltijds equivalenten - VTE"@nl ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://lblod.data.gift/concept-schemes/6facb675-63f5-44ef-a3bd-38a0cb87e1c5> .
+
+<http://lblod.data.gift/concepts/feed220b-f398-456e-8635-94a04dfbdbe8> <http://mu.semte.ch/vocabularies/core/uuid> "feed220b-f398-456e-8635-94a04dfbdbe8" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://lblod.data.gift/vocabularies/employee/UnitMeasure>, <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/6facb675-63f5-44ef-a3bd-38a0cb87e1c5> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Werknemers - Koppen"@nl ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://lblod.data.gift/concept-schemes/6facb675-63f5-44ef-a3bd-38a0cb87e1c5> .
+
+  }
+}
