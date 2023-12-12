@@ -2,7 +2,7 @@
   :class (s-prefix "skos:ConceptScheme")
   :properties `(
     (:uuid :string ,(s-prefix "core:uuid"))
-    (:label :string ,(s-prefix "skos:prefLabel"))
+    (:prefLabel :string ,(s-prefix "skos:prefLabel"))
     )
   :has-many `((concept :via ,(s-prefix "core:inScheme")
                        :inverse t
@@ -16,7 +16,7 @@
   :class (s-prefix "skos:Concept")
   :properties `(
     (:uuid :string ,(s-prefix "core:uuid"))
-    (:label :string ,(s-prefix "skos:prefLabel"))
+    (:prefLabel :string ,(s-prefix "skos:prefLabel"))
     )
   :has-many `((concept-scheme :via ,(s-prefix "core:inScheme")
                               :as "concept-schemes"))
