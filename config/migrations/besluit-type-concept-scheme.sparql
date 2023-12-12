@@ -591,7 +591,7 @@ INSERT DATA {
 <https://data.vlaanderen.be/id/conceptscheme/BesluitType> <http://mu.semte.ch/vocabularies/core/uuid> "da6076d5-145b-4e72-a75a-f7098b816ee1" ;
 	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
 	<http://www.w3.org/2004/02/skos/core#definition> "Het type van de rechtsgrond. Bijvoorbeeld: reglement, wet, voorstel." ;
-	<http://www.w3.org/2004/02/skos/core#prefLabel> "besluit type" .
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Besluit type" .
 
   }
 }
