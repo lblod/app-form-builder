@@ -1,0 +1,34 @@
+INSERT DATA {
+  GRAPH <http://mu.semte.ch/application> {
+<http://data.vlaanderen.be/id/concept/MandatarisStatusCode/21063a5b-912c-4241-841c-cc7fb3c73e75> <http://mu.semte.ch/vocabularies/core/uuid> "21063a5b-912c-4241-841c-cc7fb3c73e75" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mu.semte.ch/vocabularies/ext/MandatarisStatusCode>, <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.vlaanderen.be/id/conceptscheme/MandatarisStatusCode> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Effectief" ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.vlaanderen.be/id/conceptscheme/MandatarisStatusCode> .
+
+<http://data.vlaanderen.be/id/concept/MandatarisStatusCode/aacb3fed-b51d-4e0b-a411-f3fa641da1b3> <http://mu.semte.ch/vocabularies/core/uuid> "aacb3fed-b51d-4e0b-a411-f3fa641da1b3" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mu.semte.ch/vocabularies/ext/MandatarisStatusCode>, <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.vlaanderen.be/id/conceptscheme/MandatarisStatusCode> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Titelvoerend" ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.vlaanderen.be/id/conceptscheme/MandatarisStatusCode> .
+
+<http://data.vlaanderen.be/id/concept/MandatarisStatusCode/c301248f-0199-45ca-b3e5-4c596731d5fe> <http://mu.semte.ch/vocabularies/core/uuid> "c301248f-0199-45ca-b3e5-4c596731d5fe" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mu.semte.ch/vocabularies/ext/MandatarisStatusCode>, <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.vlaanderen.be/id/conceptscheme/MandatarisStatusCode> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Verhinderd" ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.vlaanderen.be/id/conceptscheme/MandatarisStatusCode> .
+
+<http://data.vlaanderen.be/id/concept/MandatarisStatusCode/e1ca6edd-55e1-4288-92a5-53f4cf71946a> <http://mu.semte.ch/vocabularies/core/uuid> "e1ca6edd-55e1-4288-92a5-53f4cf71946a" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mu.semte.ch/vocabularies/ext/MandatarisStatusCode>, <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.vlaanderen.be/id/conceptscheme/MandatarisStatusCode> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Waarnemend" ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.vlaanderen.be/id/conceptscheme/MandatarisStatusCode> .
+
+<http://data.vlaanderen.be/id/conceptscheme/MandatarisStatusCode> <http://mu.semte.ch/vocabularies/core/uuid> "597007c3419bffd36b29f52e5e84424a" ;
+	<http://purl.org/dc/terms/modified> "2018-03-21"^^<http://www.w3.org/2001/XMLSchema#date> ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+	<http://www.w3.org/2004/02/skos/core#note> "De gesteldheid van de mandataris." ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "MandatarisStatusCode" .
+
+  }
+}
