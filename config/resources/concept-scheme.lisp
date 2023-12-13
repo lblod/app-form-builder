@@ -3,7 +3,7 @@
   :properties `(
     (:prefLabel :string ,(s-prefix "skos:prefLabel"))
     )
-  :has-many `((concept :via ,(s-prefix "core:inScheme")
+  :has-many `((concept :via ,(s-prefix "skos:inScheme")
                        :inverse t
                        :as "concepts"))
   :resource-base (s-url "http://lblod.data.gift/concept-schemes/")
@@ -16,7 +16,7 @@
   :properties `(
     (:prefLabel :string ,(s-prefix "skos:prefLabel"))
     )
-  :has-many `((concept-scheme :via ,(s-prefix "core:inScheme")
+  :has-many `((concept-scheme :via ,(s-prefix "skos:inScheme")
                               :as "concept-schemes"))
   :resource-base (s-url "http://lblod.data.gift/concepts/")
   :features `(include-uri)
