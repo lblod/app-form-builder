@@ -1,9 +1,0 @@
-INSERT DATA {
-  GRAPH <http://mu.semte.ch/graphs/public> {
-    <http://lblod.data.gift/vocabularies/forms/RequiredConstraint>
-        a <http://www.w3.org/2004/02/skos/core#Concept>, <http://www.w3.org/2000/01/rdf-schema#Class>;
-        <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dde3d2a3-e848-47ea-ba44-0f2e565f04ab>;
-        <http://www.w3.org/2004/02/skos/core#prefLabel> "Required"@en ;
-        <http://mu.semte.ch/vocabularies/ext/validationName> "RequiredConstraint"@en .
-  }
-}
