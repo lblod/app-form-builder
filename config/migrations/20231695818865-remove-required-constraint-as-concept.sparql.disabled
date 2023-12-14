@@ -1,1 +1,0 @@
-DELETE WHERE { <http://lblod.data.gift/concepts/629bddbb-bf30-48d6-95af-c2f406bd9e8c> ?p ?o }
