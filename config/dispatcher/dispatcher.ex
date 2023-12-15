@@ -90,6 +90,14 @@ defmodule Dispatcher do
     forward conn, path, "http://resource/user-tests/"
   end
 
+  match "/concept-schemes/*path", %{ layer: :resources, accept: %{ json: true } } do
+    forward conn, path, "http://resource/concept-schemes/"
+  end
+
+  match "/concepts/*path", %{ layer: :resources, accept: %{ json: true } } do
+    forward conn, path, "http://resource/concepts/"
+  end
+
   #################
   # NOT FOUND
   #################

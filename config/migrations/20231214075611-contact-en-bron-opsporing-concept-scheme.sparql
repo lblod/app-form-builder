@@ -1,0 +1,20 @@
+INSERT DATA {
+  GRAPH <http://mu.semte.ch/application> {
+<http://lblod.data.gift/concepts/2697fbe1-4226-4325-807b-5dfa58e40a95> <http://mu.semte.ch/vocabularies/core/uuid> "2697fbe1-4226-4325-807b-5dfa58e40a95" ;
+	<http://purl.org/dc/terms/title> "Contact-en bronopsporing"@nl ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.vlaanderen.be/ns/subsidie#SubsidiemaatregelAanbod>, <http://www.w3.org/2000/01/rdf-schema#Class>, <http://www.w3.org/2004/02/skos/core#Concept>, <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+	<http://www.w3.org/2004/02/skos/core#definition> "Subsidy measure offer: contact and source tracking"@en ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Contact-en bronopsporing"@nl .
+
+<http://lblod.data.gift/concepts/a43f99ce-710f-4e81-8aa1-d56660146765> <http://mu.semte.ch/vocabularies/core/uuid> "a43f99ce-710f-4e81-8aa1-d56660146765" ;
+	<http://mu.semte.ch/vocabularies/ext/submissionPeriod> <http://lblod.data.gift/periods/f90004eb-e65d-4cd5-91ae-e342b0d26700> ;
+	<http://purl.org/dc/terms/title> "Winter"@nl ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class>, <http://www.w3.org/2004/02/skos/core#Concept>, <https://www.gleif.org/ontology/Base/Period> ;
+	<http://www.w3.org/2004/02/skos/core#definition> "Timeblock: november and march"@en ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concepts/2697fbe1-4226-4325-807b-5dfa58e40a95> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Winter 2020 (01 november 2020 — 31 maart 2021)"@nl ;
+	<https://www.gleif.org/ontology/Base/hasEnd> "2021-03-31"^^<http://www.w3.org/2001/XMLSchema#date> ;
+	<https://www.gleif.org/ontology/Base/hasStart> "2020-11-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+  }
+}

@@ -1,0 +1,20 @@
+INSERT DATA {
+  GRAPH <http://mu.semte.ch/application> {
+<http://lblod.data.gift/concept-schemes/95d22e7f-de86-4a2c-9974-0e3de5013d87> <http://mu.semte.ch/vocabularies/core/uuid> "95d22e7f-de86-4a2c-9974-0e3de5013d87" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Working time category"@en, "Werktijd categorie"@nl .
+
+<http://lblod.data.gift/concepts/00b0467e-4dac-42ff-a5be-2892f0e6eca5> <http://mu.semte.ch/vocabularies/core/uuid> "00b0467e-4dac-42ff-a5be-2892f0e6eca5" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://lblod.data.gift/vocabularies/employee/WorkingTimeCategory>, <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/95d22e7f-de86-4a2c-9974-0e3de5013d87> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Deeltijds"@nl ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://lblod.data.gift/concept-schemes/95d22e7f-de86-4a2c-9974-0e3de5013d87> .
+
+<http://lblod.data.gift/concepts/58c0fc8f-1ec9-469d-a13d-87a0e48fc0a3> <http://mu.semte.ch/vocabularies/core/uuid> "58c0fc8f-1ec9-469d-a13d-87a0e48fc0a3" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://lblod.data.gift/vocabularies/employee/WorkingTimeCategory>, <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/95d22e7f-de86-4a2c-9974-0e3de5013d87> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Voltijds"@nl ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://lblod.data.gift/concept-schemes/95d22e7f-de86-4a2c-9974-0e3de5013d87> .
+
+	}
+}

@@ -75,3 +75,5 @@ services:
       - "logging=true"
     restart: always
     logging: *default-logging
+    environment:
+      MU_APPLICATION_GRAPH: "http://mu.semte.ch/application" #This is the default but now it's more clear

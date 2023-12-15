@@ -1,0 +1,112 @@
+INSERT DATA {
+  GRAPH <http://mu.semte.ch/application> {
+<http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/293e5f58-9544-496e-88e0-734a137f6ebc> <http://mu.semte.ch/vocabularies/core/uuid> "293e5f58-9544-496e-88e0-734a137f6ebc" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mu.semte.ch/vocabularies/ext/BestuurseenheidClassificatieCode>, <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.vlaanderen.be/id/conceptscheme/BestuurseenheidClassificatieCode>, <http://lblod.data.gift/concept-schemes/06bad311-e964-48a4-9b6b-f765819e76e0> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Watering" ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.vlaanderen.be/id/conceptscheme/BestuurseenheidClassificatieCode> .
+
+<http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/36a82ba0-7ff1-4697-a9dd-2e94df73b721> <http://mu.semte.ch/vocabularies/core/uuid> "36a82ba0-7ff1-4697-a9dd-2e94df73b721" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mu.semte.ch/vocabularies/ext/BestuurseenheidClassificatieCode>, <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.vlaanderen.be/id/conceptscheme/BestuurseenheidClassificatieCode>, <http://lblod.data.gift/concept-schemes/06bad311-e964-48a4-9b6b-f765819e76e0> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Autonoom gemeentebedrijf" ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.vlaanderen.be/id/conceptscheme/BestuurseenheidClassificatieCode> .
+
+<http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000000> <http://mu.semte.ch/vocabularies/core/uuid> "5ab0e9b8a3b2ca7c5e000000" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mu.semte.ch/vocabularies/ext/BestuurseenheidClassificatieCode>, <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.vlaanderen.be/id/conceptscheme/BestuurseenheidClassificatieCode>, <http://lblod.data.gift/concept-schemes/06bad311-e964-48a4-9b6b-f765819e76e0>, <http://lblod.data.gift/concept-schemes/0887b850-b810-40d4-be0f-cafd01d3259b> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Provincie" ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.vlaanderen.be/id/conceptscheme/BestuurseenheidClassificatieCode> .
+
+<http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> <http://mu.semte.ch/vocabularies/core/uuid> "5ab0e9b8a3b2ca7c5e000001" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mu.semte.ch/vocabularies/ext/BestuurseenheidClassificatieCode>, <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.vlaanderen.be/id/conceptscheme/BestuurseenheidClassificatieCode>, <http://lblod.data.gift/concept-schemes/06bad311-e964-48a4-9b6b-f765819e76e0>, <http://lblod.data.gift/concept-schemes/0887b850-b810-40d4-be0f-cafd01d3259b> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Gemeente" ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.vlaanderen.be/id/conceptscheme/BestuurseenheidClassificatieCode> .
+
+<http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000002> <http://mu.semte.ch/vocabularies/core/uuid> "5ab0e9b8a3b2ca7c5e000002" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mu.semte.ch/vocabularies/ext/BestuurseenheidClassificatieCode>, <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.vlaanderen.be/id/conceptscheme/BestuurseenheidClassificatieCode>, <http://lblod.data.gift/concept-schemes/06bad311-e964-48a4-9b6b-f765819e76e0>, <http://lblod.data.gift/concept-schemes/0887b850-b810-40d4-be0f-cafd01d3259b> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "OCMW" ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.vlaanderen.be/id/conceptscheme/BestuurseenheidClassificatieCode> .
+
+<http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000003> <http://mu.semte.ch/vocabularies/core/uuid> "5ab0e9b8a3b2ca7c5e000003" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mu.semte.ch/vocabularies/ext/BestuurseenheidClassificatieCode>, <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.vlaanderen.be/id/conceptscheme/BestuurseenheidClassificatieCode>, <http://lblod.data.gift/concept-schemes/06bad311-e964-48a4-9b6b-f765819e76e0>, <http://lblod.data.gift/concept-schemes/0887b850-b810-40d4-be0f-cafd01d3259b> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "District" ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.vlaanderen.be/id/conceptscheme/BestuurseenheidClassificatieCode> .
+
+<http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/66ec74fd-8cfc-4e16-99c6-350b35012e86> <http://mu.semte.ch/vocabularies/core/uuid> "66ec74fd-8cfc-4e16-99c6-350b35012e86" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mu.semte.ch/vocabularies/ext/BestuurseenheidClassificatieCode>, <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.vlaanderen.be/id/conceptscheme/BestuurseenheidClassificatieCode>, <http://lblod.data.gift/concept-schemes/06bad311-e964-48a4-9b6b-f765819e76e0> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Bestuur van de eredienst" ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.vlaanderen.be/id/conceptscheme/BestuurseenheidClassificatieCode> .
+
+<http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/80310756-ce0a-4a1b-9b8e-7c01b6cc7a2d> <http://mu.semte.ch/vocabularies/core/uuid> "80310756-ce0a-4a1b-9b8e-7c01b6cc7a2d" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mu.semte.ch/vocabularies/ext/BestuurseenheidClassificatieCode>, <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.vlaanderen.be/id/conceptscheme/BestuurseenheidClassificatieCode>, <http://lblod.data.gift/concept-schemes/06bad311-e964-48a4-9b6b-f765819e76e0> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Autonoom provinciebedrijf" ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.vlaanderen.be/id/conceptscheme/BestuurseenheidClassificatieCode> .
+
+<http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/a3922c6d-425b-474f-9a02-ffb71a436bfc> <http://mu.semte.ch/vocabularies/core/uuid> "a3922c6d-425b-474f-9a02-ffb71a436bfc" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mu.semte.ch/vocabularies/ext/BestuurseenheidClassificatieCode>, <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.vlaanderen.be/id/conceptscheme/BestuurseenheidClassificatieCode>, <http://lblod.data.gift/concept-schemes/06bad311-e964-48a4-9b6b-f765819e76e0> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Politiezone" ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.vlaanderen.be/id/conceptscheme/BestuurseenheidClassificatieCode> .
+
+<http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/b156b67f-c5f4-4584-9b30-4c090be02fdc> <http://mu.semte.ch/vocabularies/core/uuid> "b156b67f-c5f4-4584-9b30-4c090be02fdc" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mu.semte.ch/vocabularies/ext/BestuurseenheidClassificatieCode>, <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.vlaanderen.be/id/conceptscheme/BestuurseenheidClassificatieCode>, <http://lblod.data.gift/concept-schemes/06bad311-e964-48a4-9b6b-f765819e76e0> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Projectvereniging" ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.vlaanderen.be/id/conceptscheme/BestuurseenheidClassificatieCode> .
+
+<http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/cc4e2d67-603b-4784-9b61-e50bac1ec089> <http://mu.semte.ch/vocabularies/core/uuid> "cc4e2d67-603b-4784-9b61-e50bac1ec089" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mu.semte.ch/vocabularies/ext/BestuurseenheidClassificatieCode>, <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.vlaanderen.be/id/conceptscheme/BestuurseenheidClassificatieCode>, <http://lblod.data.gift/concept-schemes/06bad311-e964-48a4-9b6b-f765819e76e0> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "OCMW vereniging" ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.vlaanderen.be/id/conceptscheme/BestuurseenheidClassificatieCode> .
+
+<http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/cd93f147-3ece-4308-acab-5c5ada3ec63d> <http://mu.semte.ch/vocabularies/core/uuid> "cd93f147-3ece-4308-acab-5c5ada3ec63d" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mu.semte.ch/vocabularies/ext/BestuurseenheidClassificatieCode>, <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.vlaanderen.be/id/conceptscheme/BestuurseenheidClassificatieCode>, <http://lblod.data.gift/concept-schemes/06bad311-e964-48a4-9b6b-f765819e76e0> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Opdrachthoudende vereniging" ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.vlaanderen.be/id/conceptscheme/BestuurseenheidClassificatieCode> .
+
+<http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/d01bb1f6-2439-4e33-9c25-1fc295de2e71> <http://mu.semte.ch/vocabularies/core/uuid> "d01bb1f6-2439-4e33-9c25-1fc295de2e71" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mu.semte.ch/vocabularies/ext/BestuurseenheidClassificatieCode>, <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.vlaanderen.be/id/conceptscheme/BestuurseenheidClassificatieCode>, <http://lblod.data.gift/concept-schemes/06bad311-e964-48a4-9b6b-f765819e76e0> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Dienstverlenende vereniging" ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.vlaanderen.be/id/conceptscheme/BestuurseenheidClassificatieCode> .
+
+<http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/d312c541-a263-4004-bca2-63eb991458c3> <http://mu.semte.ch/vocabularies/core/uuid> "d312c541-a263-4004-bca2-63eb991458c3" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mu.semte.ch/vocabularies/ext/BestuurseenheidClassificatieCode>, <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.vlaanderen.be/id/conceptscheme/BestuurseenheidClassificatieCode>, <http://lblod.data.gift/concept-schemes/06bad311-e964-48a4-9b6b-f765819e76e0> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Polders" ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.vlaanderen.be/id/conceptscheme/BestuurseenheidClassificatieCode> .
+
+<http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/e8294b73-87c9-4fa2-9441-1937350763c9> <http://mu.semte.ch/vocabularies/core/uuid> "e8294b73-87c9-4fa2-9441-1937350763c9" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mu.semte.ch/vocabularies/ext/BestuurseenheidClassificatieCode>, <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.vlaanderen.be/id/conceptscheme/BestuurseenheidClassificatieCode>, <http://lblod.data.gift/concept-schemes/06bad311-e964-48a4-9b6b-f765819e76e0> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Welzijnsvereniging" ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.vlaanderen.be/id/conceptscheme/BestuurseenheidClassificatieCode> .
+
+<http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/ea446861-2c51-45fa-afd3-4e4a37b71562> <http://mu.semte.ch/vocabularies/core/uuid> "ea446861-2c51-45fa-afd3-4e4a37b71562" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mu.semte.ch/vocabularies/ext/BestuurseenheidClassificatieCode>, <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.vlaanderen.be/id/conceptscheme/BestuurseenheidClassificatieCode>, <http://lblod.data.gift/concept-schemes/06bad311-e964-48a4-9b6b-f765819e76e0> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Hulpverleningszone" ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.vlaanderen.be/id/conceptscheme/BestuurseenheidClassificatieCode> .
+
+<http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/f9cac08a-13c1-49da-9bcb-f650b0604054> <http://mu.semte.ch/vocabularies/core/uuid> "f9cac08a-13c1-49da-9bcb-f650b0604054" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mu.semte.ch/vocabularies/ext/BestuurseenheidClassificatieCode>, <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.vlaanderen.be/id/conceptscheme/BestuurseenheidClassificatieCode>, <http://lblod.data.gift/concept-schemes/06bad311-e964-48a4-9b6b-f765819e76e0> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Centraal bestuur van de eredienst" ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.vlaanderen.be/id/conceptscheme/BestuurseenheidClassificatieCode> .
+
+<http://data.vlaanderen.be/id/conceptscheme/BestuurseenheidClassificatieCode> <http://mu.semte.ch/vocabularies/core/uuid> "8d051880fe128d220e233f1a5130d629" ;
+	<http://purl.org/dc/terms/modified> "2018-03-21"^^<http://www.w3.org/2001/XMLSchema#date> ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+	<http://www.w3.org/2004/02/skos/core#note> "Classificatie van de bestuurseenheid." ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "BestuurseenheidClassificatieCode" .
+
+  }
+}

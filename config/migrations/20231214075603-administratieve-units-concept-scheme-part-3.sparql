@@ -1,0 +1,996 @@
+INSERT DATA {
+  GRAPH <http://mu.semte.ch/application> {
+<http://data.lblod.info/id/bestuurseenheden/955a75560dd7c57fb9b882b0e92826ab06d77f1a4fc2722b4421389d47a247f3> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/64a6cf9e9ee44916c00af5b3b56c80e2516f9705ee6c0c9175fcce7b7bc53c3d> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "955a75560dd7c57fb9b882b0e92826ab06d77f1a4fc2722b4421389d47a247f3" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/9c503a712d448bc8b89c1f8802c207e30bd192bc8da3bf22509a547949a45301> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207487354" ;
+	<http://purl.org/dc/terms/identifier> "0207487354", "OVO002145" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Ledegem" .
+
+<http://data.lblod.info/id/bestuurseenheden/9574bd4a68b1f9243f10b6e5e5c973f4e957c96cd15f57057d2966036fb1a7fd> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/3095886adf5db038005ddc171ebb4d8a044475493c8ee75ca6a1f00647c34dc2> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "9574bd4a68b1f9243f10b6e5e5c973f4e957c96cd15f57057d2966036fb1a7fd" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/b6868be9ca6881b1020e6cff8d431531a1cff64b39dc92646a5173b3ee144516> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0216772828" ;
+	<http://purl.org/dc/terms/identifier> "0216772828", "OVO002084" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Hechtel-Eksel" .
+
+<http://data.lblod.info/id/bestuurseenheden/95e51e4c874a9db9ab6fef81453b1d64531c4c5daaff47b24d266e3ac032d759> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/f7e3e1b81b6dd837682e2aa2972ee12ff8a21b65493b719ff3d0ec2c67839bb0> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "95e51e4c874a9db9ab6fef81453b1d64531c4c5daaff47b24d266e3ac032d759" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/9c503a712d448bc8b89c1f8802c207e30bd192bc8da3bf22509a547949a45301> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207431629" ;
+	<http://purl.org/dc/terms/identifier> "0207431629", "OVO002186" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Moorslede" .
+
+<http://data.lblod.info/id/bestuurseenheden/974816591f269bb7d74aa1720922651529f3d3b2a787f5c60b73e5a0384950a4> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/e60532b5e10070b48664b998e12af31cd4e612a0b8d089804d0bbed3d4ecc969> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "974816591f269bb7d74aa1720922651529f3d3b2a787f5c60b73e5a0384950a4" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/a9a0cabd376a2b3a8eb838f15f6aeb1b63ffe49d527598994962e0d15ad2081c> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207437468" ;
+	<http://purl.org/dc/terms/identifier> "0207437468", "OVO001992" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Aalst" .
+
+<http://data.lblod.info/id/bestuurseenheden/985774e5593009ffa08804ffad482f0dee8490f1cdfde072116cd60e4528892e> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/8673373223c26028c5922fda412e83eb0adb9bdfd900ede9b857608f963add22> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "985774e5593009ffa08804ffad482f0dee8490f1cdfde072116cd60e4528892e" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/9c503a712d448bc8b89c1f8802c207e30bd192bc8da3bf22509a547949a45301> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207434203" ;
+	<http://purl.org/dc/terms/identifier> "0207434203", "OVO002047" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Dentergem" .
+
+<http://data.lblod.info/id/bestuurseenheden/995409aaafd41e4ad476aafc658669c794b3bd993ace46f08fd799c4d1151ff3> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/76df7f42033d8e6ec1bfc19ee2e52ae11dd9c42d1ff5069a6b53952926b591e7> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "995409aaafd41e4ad476aafc658669c794b3bd993ace46f08fd799c4d1151ff3" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/9c503a712d448bc8b89c1f8802c207e30bd192bc8da3bf22509a547949a45301> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207532389" ;
+	<http://purl.org/dc/terms/identifier> "0207532389", "OVO002126" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Koekelare" .
+
+<http://data.lblod.info/id/bestuurseenheden/99a87e5fe755c1fbb0b7f5763c08e95561a02a358dd7dd0851d35496bec98203> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/9f0147f600f0b87305ec93987df604110f3de8035b8dc1cd4659f16d45da954a> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "99a87e5fe755c1fbb0b7f5763c08e95561a02a358dd7dd0851d35496bec98203" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/f2bda6eb42c1ab85c4ef36588a043ac2bfeffa31bfb88bb7abc597f01efe270b> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207536250" ;
+	<http://purl.org/dc/terms/identifier> "0207536250", "OVO002128" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Kontich" .
+
+<http://data.lblod.info/id/bestuurseenheden/99da98a7a0087d3429b084ebfc4eb5d488c593790d4d5af7253982a2e21a6a5f> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/1f5dd7043ad54d07751da8689d5b47ad9ae0e52dccce8f00cc8debab35f8e2b2> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "99da98a7a0087d3429b084ebfc4eb5d488c593790d4d5af7253982a2e21a6a5f" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/b6868be9ca6881b1020e6cff8d431531a1cff64b39dc92646a5173b3ee144516> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207475377" ;
+	<http://purl.org/dc/terms/identifier> "0207475377", "OVO002021" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Bilzen" .
+
+<http://data.lblod.info/id/bestuurseenheden/99ed6eee81a7aca47517cbffb46eaba38f3987eeb4ad32c020898644769eb615> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/21034a361da5b5c45424cbbef38a89029ca025e32aa1b132fcceca1d13149ee6> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "99ed6eee81a7aca47517cbffb46eaba38f3987eeb4ad32c020898644769eb615" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/9c503a712d448bc8b89c1f8802c207e30bd192bc8da3bf22509a547949a45301> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207495470" ;
+	<http://purl.org/dc/terms/identifier> "0207495470", "OVO002277" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Wingene" .
+
+<http://data.lblod.info/id/bestuurseenheden/9a187d228c5c22e402cb2186f731a5b7cce9549d3fac1e667ce59a3cb80b76c0> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/3a98b84c7f0d534580e7cd3b9ffe5358c17481887c48a1403890b4c654929108> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "9a187d228c5c22e402cb2186f731a5b7cce9549d3fac1e667ce59a3cb80b76c0" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/a9a0cabd376a2b3a8eb838f15f6aeb1b63ffe49d527598994962e0d15ad2081c> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207441527" ;
+	<http://purl.org/dc/terms/identifier> "0207441527", "OVO002195" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Ninove" .
+
+<http://data.lblod.info/id/bestuurseenheden/9b93ff5308590c7d03c97c3b892910f912e695ad45c82465934996fb04dac859> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/7a7daa48e9e6449358cf96be6c7b30466648d31236e56b8958fae7d53e2308b8> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "9b93ff5308590c7d03c97c3b892910f912e695ad45c82465934996fb04dac859" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/a9a0cabd376a2b3a8eb838f15f6aeb1b63ffe49d527598994962e0d15ad2081c> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207449544" ;
+	<http://purl.org/dc/terms/identifier> "0207449544", "OVO001993" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Aalter (voor fusie)" .
+
+<http://data.lblod.info/id/bestuurseenheden/9db1b46874a57fe63c08fb5f16b117e6f61fdd98e7f64f745d0fceb9d3731169> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/e55336a3ecbae33f21e595458ba93eeeb0fa4390626622884d4d32523d0e0033> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "9db1b46874a57fe63c08fb5f16b117e6f61fdd98e7f64f745d0fceb9d3731169" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/b6868be9ca6881b1020e6cff8d431531a1cff64b39dc92646a5173b3ee144516> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207466964" ;
+	<http://purl.org/dc/terms/identifier> "0207466964", "OVO002083" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Hasselt" .
+
+<http://data.lblod.info/id/bestuurseenheden/a0393ba99ecc1a0e05d93966aaad42b07980efa5dc90f72106f3fb5954215e18> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/7945d2bbbcf5ff531c1f4107a47f96c62a9d00b39091f87a060659e9d212d434> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "a0393ba99ecc1a0e05d93966aaad42b07980efa5dc90f72106f3fb5954215e18" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/60a52229c92c1407e0549a573f820fb8a1f9fab5c82654b4b3493bc81be365de> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207515266" ;
+	<http://purl.org/dc/terms/identifier> "0207515266", "OVO002286" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Zemst" .
+
+<http://data.lblod.info/id/bestuurseenheden/a0b451f349f1609834f2236ed8149e4f254e9aae1a897c531a99b9b0bbac0899> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/fb3a5e08889ad24a945aea45f426b0b5211d7fad8da6513f4b75f7deb4b7e0de> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "a0b451f349f1609834f2236ed8149e4f254e9aae1a897c531a99b9b0bbac0899" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/9c503a712d448bc8b89c1f8802c207e30bd192bc8da3bf22509a547949a45301> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207435092" ;
+	<http://purl.org/dc/terms/identifier> "0207435092", "OVO002035" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Bredene" .
+
+<http://data.lblod.info/id/bestuurseenheden/a10d7dc2599e3ab6854fc83d1023224eda8cfbc62017d4a1a82bedef7a03b8e4> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/adb881199e615daa2f40a6f85d3104c9049a11f33586c9206e96c640b645bc9e> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "a10d7dc2599e3ab6854fc83d1023224eda8cfbc62017d4a1a82bedef7a03b8e4" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/b6868be9ca6881b1020e6cff8d431531a1cff64b39dc92646a5173b3ee144516> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207691351" ;
+	<http://purl.org/dc/terms/identifier> "0207691351", "OVO002168" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Maasmechelen" .
+
+<http://data.lblod.info/id/bestuurseenheden/a1f8ddebe40f6a09270fbe460e71ebb7adda7b1ac2e5c4ccb3fd6e9dda2162b6> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/530946fce485f5069c992c78567d99ba2d13354a455302f727049b55637cb2a1> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "a1f8ddebe40f6a09270fbe460e71ebb7adda7b1ac2e5c4ccb3fd6e9dda2162b6" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/9c503a712d448bc8b89c1f8802c207e30bd192bc8da3bf22509a547949a45301> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207494579" ;
+	<http://purl.org/dc/terms/identifier> "0207494579", "OVO002256" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Veurne" .
+
+<http://data.lblod.info/id/bestuurseenheden/a277d61f41cf0025df3e51df800c9551a27c80e2515c32aabbbbbc2c818852eb> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/f0c436f912e82844077f466ea4f67832bea65fdaf362d01fe6c13b0694fbdbbd> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "a277d61f41cf0025df3e51df800c9551a27c80e2515c32aabbbbbc2c818852eb" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/a9a0cabd376a2b3a8eb838f15f6aeb1b63ffe49d527598994962e0d15ad2081c> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207446079" ;
+	<http://purl.org/dc/terms/identifier> "0207446079", "OVO002143" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Lebbeke" .
+
+<http://data.lblod.info/id/bestuurseenheden/a3bd0845853278f478f90b14436d3efa99e73249a84d462f0ddc2e5b6e37a156> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/ca78471edc6177372d61280f95fb14f50be4b77bc36650aeffb62b6c96a7cd2c> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "a3bd0845853278f478f90b14436d3efa99e73249a84d462f0ddc2e5b6e37a156" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/b6868be9ca6881b1020e6cff8d431531a1cff64b39dc92646a5173b3ee144516> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207477852" ;
+	<http://purl.org/dc/terms/identifier> "0207477852", "OVO002100" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Hoeselt" .
+
+<http://data.lblod.info/id/bestuurseenheden/a4509bc9057f893f626626a7eadd0c713eea564c9c948efdafdfae9a1c153771> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/462b480175bf5940e2c30b9eaf8ab67a3a122cbd78ae9b738eff67e285320111> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "a4509bc9057f893f626626a7eadd0c713eea564c9c948efdafdfae9a1c153771" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/a9a0cabd376a2b3a8eb838f15f6aeb1b63ffe49d527598994962e0d15ad2081c> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207439151" ;
+	<http://purl.org/dc/terms/identifier> "0207439151", "OVO002076" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Haaltert" .
+
+<http://data.lblod.info/id/bestuurseenheden/a510e5ebd5798668f45080e36762539bd3bc5d5b5f05c5e1e7ecaf27e481ad31> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/2482b80b902ca9184fe36d42653f63aa3c27ecf392b4ff6086919aafc0828617> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "a510e5ebd5798668f45080e36762539bd3bc5d5b5f05c5e1e7ecaf27e481ad31" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/f2bda6eb42c1ab85c4ef36588a043ac2bfeffa31bfb88bb7abc597f01efe270b> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207503190" ;
+	<http://purl.org/dc/terms/identifier> "0207503190", "OVO002180" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Merksplas" .
+
+<http://data.lblod.info/id/bestuurseenheden/a605a770e69d0af2d501614a41b446c76328d2f32165be238458468fbd5f8b88> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/ac8f96b85d9764b461769832b8e3d2d1d788e08b36bc336e7097ef75f547e8a6> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "a605a770e69d0af2d501614a41b446c76328d2f32165be238458468fbd5f8b88" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/a9a0cabd376a2b3a8eb838f15f6aeb1b63ffe49d527598994962e0d15ad2081c> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207445584" ;
+	<http://purl.org/dc/terms/identifier> "0207445584", "OVO002046" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Dendermonde" .
+
+<http://data.lblod.info/id/bestuurseenheden/a6fae65d377aa9e3f2575d4bc0f7cf53df2b5e80ca1823433885557ff0b18834> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/56a0f27c8a0ca4c2215a62ec0e4f1b352bca0c1c368301ff74b65493c90d894f> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "a6fae65d377aa9e3f2575d4bc0f7cf53df2b5e80ca1823433885557ff0b18834" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/f2bda6eb42c1ab85c4ef36588a043ac2bfeffa31bfb88bb7abc597f01efe270b> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207509427" ;
+	<http://purl.org/dc/terms/identifier> "0207509427", "OVO002007" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Baarle-Hertog" .
+
+<http://data.lblod.info/id/bestuurseenheden/a71e8220eac329de3fca638aa1b8236309730ef15de41e7f84820d50b582a5ca> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/d1b45fee10ed593d5137115a6b13cae3291a1aa0de27fc80577dc1bf36c0006b> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "a71e8220eac329de3fca638aa1b8236309730ef15de41e7f84820d50b582a5ca" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/60a52229c92c1407e0549a573f820fb8a1f9fab5c82654b4b3493bc81be365de> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207368380" ;
+	<http://purl.org/dc/terms/identifier> "0207368380", "OVO002157" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Linter" .
+
+<http://data.lblod.info/id/bestuurseenheden/a863212dae496f3c67044c214843841e636f373fb1c97a46fef3ef82d77ac925> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/295b5a17da38b4b57e0e2582949fbc66eb03c246c2180d638b944835c29c195f> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "a863212dae496f3c67044c214843841e636f373fb1c97a46fef3ef82d77ac925" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/9c503a712d448bc8b89c1f8802c207e30bd192bc8da3bf22509a547949a45301> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207531894" ;
+	<http://purl.org/dc/terms/identifier> "0207531894", "OVO002052" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Diksmuide" .
+
+<http://data.lblod.info/id/bestuurseenheden/a9e63c13a602de3cc5463cc81eee0b8d80d14a1846d1deb82b3a2d4e7efc96af> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/35d77dbd06c8d621f6a74ce951bcf09b72588cfa4648b34ad9c9e874fc996812> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "a9e63c13a602de3cc5463cc81eee0b8d80d14a1846d1deb82b3a2d4e7efc96af" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/b6868be9ca6881b1020e6cff8d431531a1cff64b39dc92646a5173b3ee144516> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207467162" ;
+	<http://purl.org/dc/terms/identifier> "0207467162", "OVO002091" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Herk-de-Stad" .
+
+<http://data.lblod.info/id/bestuurseenheden/af76592773d5172af4a57454ea5c3d94578379048cd7c37a4da016a07a91bb54> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/da53d591588ff50ff06f48966c253fe6dc5d0354af52b5416ef383a5c8c3d87c> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "af76592773d5172af4a57454ea5c3d94578379048cd7c37a4da016a07a91bb54" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/9c503a712d448bc8b89c1f8802c207e30bd192bc8da3bf22509a547949a45301> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207531597" ;
+	<http://purl.org/dc/terms/identifier> "0207531597", "OVO002294" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Zuienkerke" .
+
+<http://data.lblod.info/id/bestuurseenheden/af8969752f6b28c66b6bc402d7987fa38774901ac72b95c5cb7976570487c3c9> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/c3c5671949a6b06c707235fe45a565eb29bf966632a27f206056b5eb2a9bcb16> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "af8969752f6b28c66b6bc402d7987fa38774901ac72b95c5cb7976570487c3c9" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/b6868be9ca6881b1020e6cff8d431531a1cff64b39dc92646a5173b3ee144516> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207470330" ;
+	<http://purl.org/dc/terms/identifier> "0207470330", "OVO002248" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Tessenderlo" .
+
+<http://data.lblod.info/id/bestuurseenheden/b070cde79629e0c3c5ed3d693fe06b6b066f75299244c224edb42a54fdfad265> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/eb3e02c9eb61333c221c86d98fdff245947a8d2b9f2057284c85345d55320d1a> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "b070cde79629e0c3c5ed3d693fe06b6b066f75299244c224edb42a54fdfad265" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/60a52229c92c1407e0549a573f820fb8a1f9fab5c82654b4b3493bc81be365de> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207516058" ;
+	<http://purl.org/dc/terms/identifier> "0207516058", "OVO002012" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Begijnendijk" .
+
+<http://data.lblod.info/id/bestuurseenheden/b2ee8ae754844119d83712a384587b6086358c0673645a27bca3a66e845bce84> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/4b55855dc112b7fa4c37e0b39326fbca2661320ddd964bb8e0d2674394698997> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "b2ee8ae754844119d83712a384587b6086358c0673645a27bca3a66e845bce84" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/a9a0cabd376a2b3a8eb838f15f6aeb1b63ffe49d527598994962e0d15ad2081c> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207690262" ;
+	<http://purl.org/dc/terms/identifier> "0207690262", "OVO002032" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Brakel" .
+
+<http://data.lblod.info/id/bestuurseenheden/b36da606fba6dd4dc99ae1ef5f4a52bba3268d33f4bc2cd1e65b87f01f35101a> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/1fb92312354f3d900670e2b9cfbd80148910f1227e321f2c377f92957b071cb1> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "b36da606fba6dd4dc99ae1ef5f4a52bba3268d33f4bc2cd1e65b87f01f35101a" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/9c503a712d448bc8b89c1f8802c207e30bd192bc8da3bf22509a547949a45301> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207438458" ;
+	<http://purl.org/dc/terms/identifier> "0207438458", "OVO002249" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Tielt" .
+
+<http://data.lblod.info/id/bestuurseenheden/b40be11d4f04a2e0fff76e8feae92471963c063e2d65a68210dab2707ac62726> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/a75f153bfd8902c82885338bb15e3331e760fc4455e764bed9a0a442edaa292e> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "b40be11d4f04a2e0fff76e8feae92471963c063e2d65a68210dab2707ac62726" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/f2bda6eb42c1ab85c4ef36588a043ac2bfeffa31bfb88bb7abc597f01efe270b> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207536943" ;
+	<http://purl.org/dc/terms/identifier> "0207536943", "OVO002048" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Dessel" .
+
+<http://data.lblod.info/id/bestuurseenheden/b4277a54dbd53cd3928c139c916eb58b03c7196c97c8d30f21b52200cb5156b9> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/812039a6c55fb806c3444f24b398cbffa3c12a716002e82402b1fbd285c91be8> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "b4277a54dbd53cd3928c139c916eb58b03c7196c97c8d30f21b52200cb5156b9" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/f2bda6eb42c1ab85c4ef36588a043ac2bfeffa31bfb88bb7abc597f01efe270b> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207537438" ;
+	<http://purl.org/dc/terms/identifier> "0207537438", "OVO002060" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Essen" .
+
+<http://data.lblod.info/id/bestuurseenheden/b456cda7fa9b2b176adb216e5598aeeb60ff19753a5a08ade6ffd32e9a0ead89> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/080c3058a571fbd71e2ab0cba985d228aa64a5ef00dda0eac517206d9e66f613> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "b456cda7fa9b2b176adb216e5598aeeb60ff19753a5a08ade6ffd32e9a0ead89" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/f2bda6eb42c1ab85c4ef36588a043ac2bfeffa31bfb88bb7abc597f01efe270b> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207537933" ;
+	<http://purl.org/dc/terms/identifier> "0207537933", "OVO002057" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Edegem" .
+
+<http://data.lblod.info/id/bestuurseenheden/b45815b052363cc4b1c89eeb8dd6ae4dbf8433883d314b4c1d88c96a8d912212> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/448b184030cf157ca412cb7b15b84134739ce2565d1547ea99756bc6caaeee48> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "b45815b052363cc4b1c89eeb8dd6ae4dbf8433883d314b4c1d88c96a8d912212" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/60a52229c92c1407e0549a573f820fb8a1f9fab5c82654b4b3493bc81be365de> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207521206" ;
+	<http://purl.org/dc/terms/identifier> "0207521206", "OVO002141" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Landen" .
+
+<http://data.lblod.info/id/bestuurseenheden/b47cda1a1458dc4935e118b6fffbdfbc55eba2659fc9321c61be0de63b5a27e3> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/1f543ee991d187aea8795cc18caa7cf21f937db76a0dbb46323439ef22515638> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "b47cda1a1458dc4935e118b6fffbdfbc55eba2659fc9321c61be0de63b5a27e3" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/a9a0cabd376a2b3a8eb838f15f6aeb1b63ffe49d527598994962e0d15ad2081c> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207447465" ;
+	<http://purl.org/dc/terms/identifier> "0207447465", "OVO002273" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Wichelen" .
+
+<http://data.lblod.info/id/bestuurseenheden/b4aa8ca2a4daa74ef8297b0b4dba2ad292e73da5337e20c65066860279751307> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/e9fe62376b94be37c0f111f5da438e5411417a8edf6899c4fede89f354ea17d6> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "b4aa8ca2a4daa74ef8297b0b4dba2ad292e73da5337e20c65066860279751307" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/9c503a712d448bc8b89c1f8802c207e30bd192bc8da3bf22509a547949a45301> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207485770" ;
+	<http://purl.org/dc/terms/identifier> "0207485770", "OVO002006" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Avelgem" .
+
+<http://data.lblod.info/id/bestuurseenheden/b4ff2bb483e5a18fed7b115a2da7af8447e1a3bec4283fb5cf480810608a1e76> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/48ca0cc7425c0f396c0faa671bdf6fcdc87f036e380d12da433390965ba1cd2e> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "b4ff2bb483e5a18fed7b115a2da7af8447e1a3bec4283fb5cf480810608a1e76" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/60a52229c92c1407e0549a573f820fb8a1f9fab5c82654b4b3493bc81be365de> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207517345" ;
+	<http://purl.org/dc/terms/identifier> "0207517345", "OVO002051" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Diest" .
+
+<http://data.lblod.info/id/bestuurseenheden/b80c00718ab23cc3676202e24a5ec9a92823d38ca970c0fd4ff6e3754b721d36> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/c390151b9698fd323a7c021f36085f0e2e2ce84fd2aee26a70ed5553bb98c032> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "b80c00718ab23cc3676202e24a5ec9a92823d38ca970c0fd4ff6e3754b721d36" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/a9a0cabd376a2b3a8eb838f15f6aeb1b63ffe49d527598994962e0d15ad2081c> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207450633" ;
+	<http://purl.org/dc/terms/identifier> "0207450633", "OVO002049" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Destelbergen" .
+
+<http://data.lblod.info/id/bestuurseenheden/b85b33fb0ce57e2b332599d2aaafcab35a3560b709add3cec98e21dca6cdc210> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/f66c44d21e725e01e1bb3bb65d4eb0cb02c00fc415a0f31e82f17cf7b9abb878> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "b85b33fb0ce57e2b332599d2aaafcab35a3560b709add3cec98e21dca6cdc210" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/a9a0cabd376a2b3a8eb838f15f6aeb1b63ffe49d527598994962e0d15ad2081c> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207452118" ;
+	<http://purl.org/dc/terms/identifier> "0207452118", "OVO002124" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Knesselare" .
+
+<http://data.lblod.info/id/bestuurseenheden/b942231860865ab0c4108651b117f69a755a04186df97e767707e5d95955ebbd> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/a381807f8a6eef24668acab4f0717c6913fe3f3893bef4d6a407e37d671bb2da> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "b942231860865ab0c4108651b117f69a755a04186df97e767707e5d95955ebbd" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/60a52229c92c1407e0549a573f820fb8a1f9fab5c82654b4b3493bc81be365de> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207516751" ;
+	<http://purl.org/dc/terms/identifier> "0207516751", "OVO002027" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Boortmeerbeek" .
+
+<http://data.lblod.info/id/bestuurseenheden/ba4d960fe3e01984e15fd0b141028bab8f2b9b240bf1e5ab639ba0d7fe4dc522> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/08e4f8d10ee80e97517fbb11d725054e22e6417045e93f071849042e143f86b1> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "ba4d960fe3e01984e15fd0b141028bab8f2b9b240bf1e5ab639ba0d7fe4dc522" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/60a52229c92c1407e0549a573f820fb8a1f9fab5c82654b4b3493bc81be365de> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207515464" ;
+	<http://purl.org/dc/terms/identifier> "0207515464", "OVO001994" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Aarschot" .
+
+<http://data.lblod.info/id/bestuurseenheden/bab5de8f12aa24ded31c67cc00b626705d1336a63f5711c1c70a8438daa6da1b> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/6bc83ffdb2f695736e65a59b48f285ce7d1d3ee004271d83221255493b4a36b5> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "bab5de8f12aa24ded31c67cc00b626705d1336a63f5711c1c70a8438daa6da1b" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/60a52229c92c1407e0549a573f820fb8a1f9fab5c82654b4b3493bc81be365de> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207521996" ;
+	<http://purl.org/dc/terms/identifier> "0207521996", "OVO002164" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Lubbeek" .
+
+<http://data.lblod.info/id/bestuurseenheden/bb749fce340952ed57a7055edbec4c7a0aec9b2623ab5c41997eb4b013287997> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/6f948b94515bad767f6b8136887edb86c706c00a82fbf8c582fae2903c50cba0> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "bb749fce340952ed57a7055edbec4c7a0aec9b2623ab5c41997eb4b013287997" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/b6868be9ca6881b1020e6cff8d431531a1cff64b39dc92646a5173b3ee144516> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207471518" ;
+	<http://purl.org/dc/terms/identifier> "0207471518", "OVO002023" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Bocholt" .
+
+<http://data.lblod.info/id/bestuurseenheden/bc1d9bf8b47dad5cc29db38c5510f1c91399302b27e928719ac1286637406f25> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/04b960ebb408067f39b6d50a5906784041a7d5faf7a94d2f78e25b00a9485fe3> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "bc1d9bf8b47dad5cc29db38c5510f1c91399302b27e928719ac1286637406f25" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/a9a0cabd376a2b3a8eb838f15f6aeb1b63ffe49d527598994962e0d15ad2081c> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207447366" ;
+	<http://purl.org/dc/terms/identifier> "0207447366", "OVO002270" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Wetteren" .
+
+<http://data.lblod.info/id/bestuurseenheden/bc50bb1ff28814ab2441a22fe111d895742098d8a61d7f648efbd9ffd48446ed> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/4ca728fc5804b7b7a906e4c70554439408625ffb96c006d55dea004ff75ffae0> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "bc50bb1ff28814ab2441a22fe111d895742098d8a61d7f648efbd9ffd48446ed" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/60a52229c92c1407e0549a573f820fb8a1f9fab5c82654b4b3493bc81be365de> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207518335" ;
+	<http://purl.org/dc/terms/identifier> "0207518335", "OVO002071" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Glabbeek" .
+
+<http://data.lblod.info/id/bestuurseenheden/bcf3f79bcb96133312dbdc63dd157caabd3329358ed4440a03ce6d6fc6af09d2> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/821976fdc1522c40cc1b62111907d9cb3b6373e33d9096048e8d563c6ca8cb74> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "bcf3f79bcb96133312dbdc63dd157caabd3329358ed4440a03ce6d6fc6af09d2" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/b6868be9ca6881b1020e6cff8d431531a1cff64b39dc92646a5173b3ee144516> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0216772630" ;
+	<http://purl.org/dc/terms/identifier> "0216772630", "OVO002081" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Hamont-Achel" .
+
+<http://data.lblod.info/id/bestuurseenheden/bd2cfcb37561afe84b4f8b1894bf7e0f204b21931b6f9ae1d5dbbafcb6681c9b> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/56355d5c34866f4c065034f738d405dbb0ad05bd453f58654f1ba0bb1321cd0c> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "bd2cfcb37561afe84b4f8b1894bf7e0f204b21931b6f9ae1d5dbbafcb6681c9b" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/b6868be9ca6881b1020e6cff8d431531a1cff64b39dc92646a5173b3ee144516> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207478743" ;
+	<http://purl.org/dc/terms/identifier> "0207478743", "OVO002140" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Lanaken" .
+
+<http://data.lblod.info/id/bestuurseenheden/be278471a2a318edba32e7ac4294c0eafbe4c8077a34dcbb9c2e43211d4a78a6> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/141d487fe849fa900cb12f1e5904cc4c54e4c5af27c42fe1a216efec295e8254> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "be278471a2a318edba32e7ac4294c0eafbe4c8077a34dcbb9c2e43211d4a78a6" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/f2bda6eb42c1ab85c4ef36588a043ac2bfeffa31bfb88bb7abc597f01efe270b> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207499430" ;
+	<http://purl.org/dc/terms/identifier> "0207499430", "OVO002172" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Mechelen" .
+
+<http://data.lblod.info/id/bestuurseenheden/be8c097326db7ba0e0e7c81b832da8b4cdeabe22b515494753dd95d33d9ea295> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/c6c31b076d50fee7065e3c08c9ccb0087419cd608d106888dc393fe8206dd2cc> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "be8c097326db7ba0e0e7c81b832da8b4cdeabe22b515494753dd95d33d9ea295" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/b6868be9ca6881b1020e6cff8d431531a1cff64b39dc92646a5173b3ee144516> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207469340" ;
+	<http://purl.org/dc/terms/identifier> "0207469340", "OVO002201" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Opglabbeek" .
+
+<http://data.lblod.info/id/bestuurseenheden/bf2ed8893d2ec4689b4c60b0b236edf11f381e247c535f0b12d132fc80ca1ad0> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/850ac9122214304ed5aaaa70dfd8bdf7bf0d3d495b0668640a6e086a1b10a30a> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "bf2ed8893d2ec4689b4c60b0b236edf11f381e247c535f0b12d132fc80ca1ad0" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/9c503a712d448bc8b89c1f8802c207e30bd192bc8da3bf22509a547949a45301> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0206751837" ;
+	<http://purl.org/dc/terms/identifier> "0206751837", "OVO002212" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Poperinge" .
+
+<http://data.lblod.info/id/bestuurseenheden/bfdf2304f758f547ffb7c7afd4e6358290778642104f73910eadb0fb103152fe> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/cdd1e408e7c574e9dd7be6fc53e7d29d3b933d7046c7d47cdb145f0dcd64257b> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "bfdf2304f758f547ffb7c7afd4e6358290778642104f73910eadb0fb103152fe" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/b6868be9ca6881b1020e6cff8d431531a1cff64b39dc92646a5173b3ee144516> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207468350" ;
+	<http://purl.org/dc/terms/identifier> "0207468350", "OVO002165" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Lummen" .
+
+<http://data.lblod.info/id/bestuurseenheden/c0b6b5cf198cd939251dff8ed052177cfff245074c6b8d43394c8c97f7b6e945> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/72b7b5aabad11c6b9d247e3c714b07145acac1c86084ec7bf0f4b0d8dbebd03e> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "c0b6b5cf198cd939251dff8ed052177cfff245074c6b8d43394c8c97f7b6e945" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/a9a0cabd376a2b3a8eb838f15f6aeb1b63ffe49d527598994962e0d15ad2081c> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207453009" ;
+	<http://purl.org/dc/terms/identifier> "0207453009", "OVO002176" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Melle" .
+
+<http://data.lblod.info/id/bestuurseenheden/c1c28cd9e31c25100374482b71b951d5be9b849454b1bd7e1a5158a589bda5de> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/bf2944d7eaef05ef721e9ec6958b925d96b9582256837acb4ab424ba7e67e33e> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "c1c28cd9e31c25100374482b71b951d5be9b849454b1bd7e1a5158a589bda5de" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/60a52229c92c1407e0549a573f820fb8a1f9fab5c82654b4b3493bc81be365de> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207520711" ;
+	<http://purl.org/dc/terms/identifier> "0207520711", "OVO002130" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Kortenaken" .
+
+<http://data.lblod.info/id/bestuurseenheden/c26acb21f9fef0843d93523827562f96a6ccd939dfa43ad1dd70dcb8064c40a4> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/cde6b453c08dec54bc6158dabbf5a860db117793c9add4159713b653e9b123f6> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "c26acb21f9fef0843d93523827562f96a6ccd939dfa43ad1dd70dcb8064c40a4" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/f2bda6eb42c1ab85c4ef36588a043ac2bfeffa31bfb88bb7abc597f01efe270b> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207536448" ;
+	<http://purl.org/dc/terms/identifier> "0207536448", "OVO002024" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Boechout" .
+
+<http://data.lblod.info/id/bestuurseenheden/c2c19bec2f337e69a4c9838eacd88041734db523df4f7534cf407c9d380b64b8> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/93fe054939981c3c5e42ffcbb08c5265b03c9a23af39f11d5015f8ece80cfca6> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "c2c19bec2f337e69a4c9838eacd88041734db523df4f7534cf407c9d380b64b8" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/b6868be9ca6881b1020e6cff8d431531a1cff64b39dc92646a5173b3ee144516> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207465083" ;
+	<http://purl.org/dc/terms/identifier> "0207465083", "OVO002003" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "As" .
+
+<http://data.lblod.info/id/bestuurseenheden/c362abc58ac4579ff417824ce620962ac57bc344b34fe8f51d21b35ef54da36d> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/245c7249341fa053902cf672f54c3d0a311c402dce9c943d6763ada403d02e94> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "c362abc58ac4579ff417824ce620962ac57bc344b34fe8f51d21b35ef54da36d" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/f2bda6eb42c1ab85c4ef36588a043ac2bfeffa31bfb88bb7abc597f01efe270b> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207499232" ;
+	<http://purl.org/dc/terms/identifier> "0207499232", "OVO002299" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Zwijndrecht" .
+
+<http://data.lblod.info/id/bestuurseenheden/c42e0bde83126aaa67ed2c4b3ff5f5b42ae5023075e707c85369345195c79a43> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/38f04ab0cda02d9deeba70067c76b1f18b424e480b6332ace197b9c914805ddf> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "c42e0bde83126aaa67ed2c4b3ff5f5b42ae5023075e707c85369345195c79a43" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/f2bda6eb42c1ab85c4ef36588a043ac2bfeffa31bfb88bb7abc597f01efe270b> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207534864" ;
+	<http://purl.org/dc/terms/identifier> "0207534864", "OVO002056" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Duffel" .
+
+<http://data.lblod.info/id/bestuurseenheden/c5b139c66d86282381b3eb0ae4da68252d6eaf974e310fa5d200601b7cb69070> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/cdaec7b58ee494d5ca1ac3227b9c818ebff6efae679f8b4930ef3b986b18340a> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "c5b139c66d86282381b3eb0ae4da68252d6eaf974e310fa5d200601b7cb69070" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/b6868be9ca6881b1020e6cff8d431531a1cff64b39dc92646a5173b3ee144516> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207476862" ;
+	<http://purl.org/dc/terms/identifier> "0207476862", "OVO002085" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Heers" .
+
+<http://data.lblod.info/id/bestuurseenheden/c5dbb08e35e2d090a05d119fef4cc161b5ee1f322698cb8ea3c8c6643a521cf2> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/8df0e3a74165897b6e91087715eff512f627a17aa99b4e067d707b69be843085> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "c5dbb08e35e2d090a05d119fef4cc161b5ee1f322698cb8ea3c8c6643a521cf2" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/a9a0cabd376a2b3a8eb838f15f6aeb1b63ffe49d527598994962e0d15ad2081c> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207453405" ;
+	<http://purl.org/dc/terms/identifier> "0207453405", "OVO002184" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Moerbeke" .
+
+<http://data.lblod.info/id/bestuurseenheden/c648ea5d12626ee3364a02debb223908a71e68f53d69a7a7136585b58a083e77> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/aef3520d20282ff8782febfb42c5897fdd9dd902dde6f0c27b5c79a45a61d553> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "c648ea5d12626ee3364a02debb223908a71e68f53d69a7a7136585b58a083e77" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/60a52229c92c1407e0549a573f820fb8a1f9fab5c82654b4b3493bc81be365de> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207521503" ;
+	<http://purl.org/dc/terms/identifier> "0207521503", "OVO002149" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Leuven" .
+
+<http://data.lblod.info/id/bestuurseenheden/c69192b973a3ca11531b9657b3ee20aa6688fa33ea1ef1392310fec751980ab2> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/f2de66512b7a6f1c3fa08ff935f161ee67d50c46a6fee98ce5ace4b21ef8c5b8> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "c69192b973a3ca11531b9657b3ee20aa6688fa33ea1ef1392310fec751980ab2" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/60a52229c92c1407e0549a573f820fb8a1f9fab5c82654b4b3493bc81be365de> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207508437" ;
+	<http://purl.org/dc/terms/identifier> "0207508437", "OVO002072" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Gooik" .
+
+<http://data.lblod.info/id/bestuurseenheden/c6ce52f7a484e12c7f385f1116766fa9a8d1a1798e4e265a77a8881a2bda9b60> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/899352d5552b63ed12d03f2131e8f579c8fce30e0faac4acf4eb70e871ed8cef> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "c6ce52f7a484e12c7f385f1116766fa9a8d1a1798e4e265a77a8881a2bda9b60" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/f2bda6eb42c1ab85c4ef36588a043ac2bfeffa31bfb88bb7abc597f01efe270b> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207501410" ;
+	<http://purl.org/dc/terms/identifier> "0207501410", "OVO002156" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Lint" .
+
+<http://data.lblod.info/id/bestuurseenheden/c73ee91f068da28ed1f16fb057f38808e7c0d29f4c5b8b9d7b2eec235ed4d5a4> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/d3148db6aba1fdfaf3ed5062ffaab7e072e6450a0c589022d9161043fd5962a3> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "c73ee91f068da28ed1f16fb057f38808e7c0d29f4c5b8b9d7b2eec235ed4d5a4" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/f2bda6eb42c1ab85c4ef36588a043ac2bfeffa31bfb88bb7abc597f01efe270b> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207500321" ;
+	<http://purl.org/dc/terms/identifier> "0207500321", "OVO002034" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Brecht" .
+
+<http://data.lblod.info/id/bestuurseenheden/c7ff21a1a6c315ca5aec2b136ffcf0d9d285dd37a1d5b10d8d134bb714e8d774> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/a03f3d31d6f91d7b3019726a843f95138639a9c62999ec8bc8775e117230f9fa> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "c7ff21a1a6c315ca5aec2b136ffcf0d9d285dd37a1d5b10d8d134bb714e8d774" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/f2bda6eb42c1ab85c4ef36588a043ac2bfeffa31bfb88bb7abc597f01efe270b> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207540012" ;
+	<http://purl.org/dc/terms/identifier> "0207540012", "OVO002115" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Kalmthout" .
+
+<http://data.lblod.info/id/bestuurseenheden/c8f33e80-6f19-4ba1-a758-9d85f42d28d4> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/bestuurseenheden/81a6c688-9d4e-4905-b5af-c8b2386516e5> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "c8f33e80-6f19-4ba1-a758-9d85f42d28d4" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/f2bda6eb42c1ab85c4ef36588a043ac2bfeffa31bfb88bb7abc597f01efe270b> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0697609548" ;
+	<http://purl.org/dc/terms/identifier> "0697609548" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Puurs-Sint-Amands" ;
+	<http://www.w3.org/ns/prov#wasDerivedFrom> <http://data.lblod.info/id/bestuurseenheden/1b11f7f11c3c74c54acf86b8c1a9b8b2865e22b8973818486045a5d3aa8dff14>, <http://data.lblod.info/id/bestuurseenheden/571b85dc585067ac92f9de90133e747c75f3f7e7948087ae193583b9f0fe1141> .
+
+<http://data.lblod.info/id/bestuurseenheden/c94741a612946db4bffa00439a515a831c7d4de0d09d79538af2a1dd781500ca> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/1d2172d165cab32d601fb6bdae80cb394a6b13142e3afb7e322b813922f9e2b2> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "c94741a612946db4bffa00439a515a831c7d4de0d09d79538af2a1dd781500ca" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/9c503a712d448bc8b89c1f8802c207e30bd192bc8da3bf22509a547949a45301> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207433312" ;
+	<http://purl.org/dc/terms/identifier> "0207433312", "OVO002177" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Menen" .
+
+<http://data.lblod.info/id/bestuurseenheden/ca02bb76e04d7d3ac3282e39ec861a89f8a8c6c7e0d907373953fa8001c9c35b> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/9a9f8450169dff945a88677b0a1a8bdd41c6bc84120887985f0e3d15e41fa535> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "ca02bb76e04d7d3ac3282e39ec861a89f8a8c6c7e0d907373953fa8001c9c35b" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/9c503a712d448bc8b89c1f8802c207e30bd192bc8da3bf22509a547949a45301> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0216770056" ;
+	<http://purl.org/dc/terms/identifier> "0216770056", "OVO002097" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Heuvelland" .
+
+<http://data.lblod.info/id/bestuurseenheden/cb2a6e0a490ee881ddd0d9ded7f2b3d1dc2df7e57a19d014caac054bfa355f5a> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/4afbdfef4de7314c2637a9f950b13bb9b0b4eaaf3413c0bd5d0600852a9d7cb3> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "cb2a6e0a490ee881ddd0d9ded7f2b3d1dc2df7e57a19d014caac054bfa355f5a" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/a9a0cabd376a2b3a8eb838f15f6aeb1b63ffe49d527598994962e0d15ad2081c> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207463402" ;
+	<http://purl.org/dc/terms/identifier> "0207463402", "OVO002159" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Lokeren" .
+
+<http://data.lblod.info/id/bestuurseenheden/ccda2ffa758045bf3a9df27463b2a0bb12da6324f5f40ba7691e14932ebfa638> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/bf41755d78892c15517cfd427a78c969d10c5ccf8dc415d0de7aded570aa3b94> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "ccda2ffa758045bf3a9df27463b2a0bb12da6324f5f40ba7691e14932ebfa638" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/9c503a712d448bc8b89c1f8802c207e30bd192bc8da3bf22509a547949a45301> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207435785" ;
+	<http://purl.org/dc/terms/identifier> "0207435785", "OVO002150" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Lichtervelde" .
+
+<http://data.lblod.info/id/bestuurseenheden/cd64084b7a4eed361bc4f6194a95a708564b6962f068a68d2e535c7d2dcb4820> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/f9ee9f0cfd1ad4c28251f563c752cd65f59992dbec878a2451fcd9a965671e07> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "cd64084b7a4eed361bc4f6194a95a708564b6962f068a68d2e535c7d2dcb4820" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/f2bda6eb42c1ab85c4ef36588a043ac2bfeffa31bfb88bb7abc597f01efe270b> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207510021" ;
+	<http://purl.org/dc/terms/identifier> "0207510021", "OVO002225" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Rumst" .
+
+<http://data.lblod.info/id/bestuurseenheden/ce5950d88624248728b62bb587d934da5aee55f5fd5a9d3f569b3a1310390395> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/707d70a62dda1df7068108dfa1807ff4de9cda8b2a9da775dc1fd2e37edc4a5b> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "ce5950d88624248728b62bb587d934da5aee55f5fd5a9d3f569b3a1310390395" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/9c503a712d448bc8b89c1f8802c207e30bd192bc8da3bf22509a547949a45301> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207529520" ;
+	<http://purl.org/dc/terms/identifier> "0207529520", "OVO002199" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Oostkamp" .
+
+<http://data.lblod.info/id/bestuurseenheden/cf8131ac6fcc41224b895fde6e18def464a16012f05d3c078da2637e0f1674ee> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/4f560c6393c8e2615107948dd3f1078bca80bfe0b80394a2aaaf906047f5bccd> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "cf8131ac6fcc41224b895fde6e18def464a16012f05d3c078da2637e0f1674ee" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/9c503a712d448bc8b89c1f8802c207e30bd192bc8da3bf22509a547949a45301> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207491215" ;
+	<http://purl.org/dc/terms/identifier> "0207491215", "OVO002204" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Oudenburg" .
+
+<http://data.lblod.info/id/bestuurseenheden/d03795d069b5de6a386ad04bdb0970ef079eaac1be473414bcb63a6c9eaed4d0> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/2322b9e1b78cc3f6c517e807e271eab83b2fcb84ae17b75ce5a2c712c8e49bcb> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "d03795d069b5de6a386ad04bdb0970ef079eaac1be473414bcb63a6c9eaed4d0" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/60a52229c92c1407e0549a573f820fb8a1f9fab5c82654b4b3493bc81be365de> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207525956" ;
+	<http://purl.org/dc/terms/identifier> "0207525956", "OVO002254" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Tremelo" .
+
+<http://data.lblod.info/id/bestuurseenheden/d168033a9bac278fa744c425e078eeabd304397f953feaaf5327b4e039aecacb> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/24cfd36fedfdcbf2a4ef5b12b2d3410e24c3a123885ee56d508e56853e788611> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "d168033a9bac278fa744c425e078eeabd304397f953feaaf5327b4e039aecacb" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/9c503a712d448bc8b89c1f8802c207e30bd192bc8da3bf22509a547949a45301> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207490621" ;
+	<http://purl.org/dc/terms/identifier> "0207490621", "OVO002102" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Hooglede" .
+
+<http://data.lblod.info/id/bestuurseenheden/d2d0cd89d307fb651e2d0d064a89134dbc2f26b0ffacd92d2d71e9683468a206> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/60fb965ca747bc9c4b9f36bff5efb3df3d7635f1288ca7554df9ee9f73fc24e2> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "d2d0cd89d307fb651e2d0d064a89134dbc2f26b0ffacd92d2d71e9683468a206" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/9c503a712d448bc8b89c1f8802c207e30bd192bc8da3bf22509a547949a45301> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207488443" ;
+	<http://purl.org/dc/terms/identifier> "0207488443", "OVO002043" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Deerlijk" .
+
+<http://data.lblod.info/id/bestuurseenheden/d2ddbbea9b30242eedb334f9729dc9f9b31c9c0496009a474b407393b383ef53> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/1c030efe00477f9f9b79a5a22ad9dbfd021fe796ad59d704f130fb8ea1203547> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "d2ddbbea9b30242eedb334f9729dc9f9b31c9c0496009a474b407393b383ef53" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/9c503a712d448bc8b89c1f8802c207e30bd192bc8da3bf22509a547949a45301> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0216770650" ;
+	<http://purl.org/dc/terms/identifier> "0216770650", "OVO002240" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Spiere-Helkijn" .
+
+<http://data.lblod.info/id/bestuurseenheden/d3000e1841d968dd70d4534bf216699d830d146ccc1f88b902b0793caad9daf2> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/20f4981de876ff80b1a922bce4b4afcd16f4d143f1721ab9ad8220066d743567> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "d3000e1841d968dd70d4534bf216699d830d146ccc1f88b902b0793caad9daf2" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/a9a0cabd376a2b3a8eb838f15f6aeb1b63ffe49d527598994962e0d15ad2081c> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207448356" ;
+	<http://purl.org/dc/terms/identifier> "0207448356", "OVO002119" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Kaprijke" .
+
+<http://data.lblod.info/id/bestuurseenheden/d408e63f6ebbdfb20dbc63f8f8a4f91f2fe4eb23fa2496f9ca102ec583e9e022> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/ddd06e8b7da4c313151395ff7ba02bbb40c4115c986b3872e3b9479961721f65> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "d408e63f6ebbdfb20dbc63f8f8a4f91f2fe4eb23fa2496f9ca102ec583e9e022" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/f2bda6eb42c1ab85c4ef36588a043ac2bfeffa31bfb88bb7abc597f01efe270b> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207499727" ;
+	<http://purl.org/dc/terms/identifier> "0207499727", "OVO002213" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Putte" .
+
+<http://data.lblod.info/id/bestuurseenheden/d59bf99ac29e71796ad7bdfe68cf74709c63721691d9680e0ea7636070f7513c> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/1a3d1a5d201d2f566840c9098d02ebd4e35cf770949360707624bec4044f3427> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "d59bf99ac29e71796ad7bdfe68cf74709c63721691d9680e0ea7636070f7513c" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/f2bda6eb42c1ab85c4ef36588a043ac2bfeffa31bfb88bb7abc597f01efe270b> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207499133" ;
+	<http://purl.org/dc/terms/identifier> "0207499133", "OVO002288" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Zoersel" .
+
+<http://data.lblod.info/id/bestuurseenheden/d7187635377e73d8cdd7e2743257bf93742a82f700e6839eb12a3e3705ac36c5> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/996c13b9d331c9880ec94652b629857aa178c1ce3dcd84db2f5539ed0ecfc081> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "d7187635377e73d8cdd7e2743257bf93742a82f700e6839eb12a3e3705ac36c5" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/b6868be9ca6881b1020e6cff8d431531a1cff64b39dc92646a5173b3ee144516> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207471617" ;
+	<http://purl.org/dc/terms/identifier> "0207471617", "OVO002036" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Bree" .
+
+<http://data.lblod.info/id/bestuurseenheden/d760812063231cc45ced3fa65a7cd54920329178c8df7e891aa12db442e6606a> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/05200c01bb94f80297204fa643dcdb5534283b9662ef46877662b4e6c0557e3f> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "d760812063231cc45ced3fa65a7cd54920329178c8df7e891aa12db442e6606a" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/b6868be9ca6881b1020e6cff8d431531a1cff64b39dc92646a5173b3ee144516> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0216773026" ;
+	<http://purl.org/dc/terms/identifier> "0216773026", "OVO002105" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Houthalen-Helchteren" .
+
+<http://data.lblod.info/id/bestuurseenheden/d7d9ef5babd2876ad492a71c2019f02cf90c813c00befcf3682ba49186d0f4b1> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/19e78e16a123b25a9fffedac722ad37349889dd8cc1572fbadd909efb08acc38> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "d7d9ef5babd2876ad492a71c2019f02cf90c813c00befcf3682ba49186d0f4b1" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/b6868be9ca6881b1020e6cff8d431531a1cff64b39dc92646a5173b3ee144516> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207474090" ;
+	<http://purl.org/dc/terms/identifier> "0207474090", "OVO002208" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Overpelt" .
+
+<http://data.lblod.info/id/bestuurseenheden/d8247b68bb62c768c36308fbd7203c58038e249b8363da29d223aa6cd97cf242> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/07550a135c689629e5ea5214ca1c4630c1180110ca9b2f81debbe4d4bffa1058> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "d8247b68bb62c768c36308fbd7203c58038e249b8363da29d223aa6cd97cf242" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/b6868be9ca6881b1020e6cff8d431531a1cff64b39dc92646a5173b3ee144516> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207473102" ;
+	<http://purl.org/dc/terms/identifier> "0207473102", "OVO002160" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Lommel" .
+
+<http://data.lblod.info/id/bestuurseenheden/d82b46992186c404b09e13b47502a8ab420c8f72316f1819847b1be44ba6314e> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/7f5c0a01e3ae4f454535935ee54e794f2e377a58f31ecbc18c72e58a439390d0> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "d82b46992186c404b09e13b47502a8ab420c8f72316f1819847b1be44ba6314e" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/9c503a712d448bc8b89c1f8802c207e30bd192bc8da3bf22509a547949a45301> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207491710" ;
+	<http://purl.org/dc/terms/identifier> "0207491710", "OVO002146" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Lendelede" .
+
+<http://data.lblod.info/id/bestuurseenheden/d8f7f1849303f3bd250d476ee5b44456d42b4d2f79f8f72b0be754484cb5fda4> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/a912f10109c8c84965c68cbf011f4100de000fb9bc924f4c5e034fcf76e8a3c6> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "d8f7f1849303f3bd250d476ee5b44456d42b4d2f79f8f72b0be754484cb5fda4" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/b6868be9ca6881b1020e6cff8d431531a1cff64b39dc92646a5173b3ee144516> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207465974" ;
+	<http://purl.org/dc/terms/identifier> "0207465974", "OVO002050" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Diepenbeek" .
+
+<http://data.lblod.info/id/bestuurseenheden/d90c540e25805c2ba9efc77ca016e4f24102c44496f9590a3a5c769bd6dffa74> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/8d78ddeb53d45682a825e1afa02751130c4afbd95ff35fa32d59e9d803d12a87> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "d90c540e25805c2ba9efc77ca016e4f24102c44496f9590a3a5c769bd6dffa74" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/9c503a712d448bc8b89c1f8802c207e30bd192bc8da3bf22509a547949a45301> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207434597" ;
+	<http://purl.org/dc/terms/identifier> "0207434597", "OVO002042" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "De Panne" .
+
+<http://data.lblod.info/id/bestuurseenheden/d9267014daa2764a9edd3b176678b56f57474ffe162363795690e5c684c6eab1> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/e3f558b8d07b85068af0b90ca67b172a6e012cffe9cf5a6126f11fc69f2cee63> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "d9267014daa2764a9edd3b176678b56f57474ffe162363795690e5c684c6eab1" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/a9a0cabd376a2b3a8eb838f15f6aeb1b63ffe49d527598994962e0d15ad2081c> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0216771244" ;
+	<http://purl.org/dc/terms/identifier> "0216771244", "OVO002059" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Erpe-Mere" .
+
+<http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/56e8ec85-e03f-4168-b062-737f9704cd2a> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "d93451bf-e89a-4528-80f3-f0a1c19361a8" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/a9a0cabd376a2b3a8eb838f15f6aeb1b63ffe49d527598994962e0d15ad2081c> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0697608162" ;
+	<http://purl.org/dc/terms/identifier> "0697608162" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Deinze" ;
+	<http://www.w3.org/ns/prov#wasDerivedFrom> <http://data.lblod.info/id/bestuurseenheden/25b05f670144f166a485a1d0ac37faca672b36642cf1647d846010d6fe9cabb5>, <http://data.lblod.info/id/bestuurseenheden/8ed14ecd083fb231f9af0f2698de728bba3f11deb0f4ea4caf9d5c1f9e3a771b> .
+
+<http://data.lblod.info/id/bestuurseenheden/d9f7c0ab4920fdecf3f9a60b92e921b5ca07248fcb0eac2113eb97392ddd6c6c> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/94a2edbd38ede2a3385e46ec2d6b05e7b020782e435f4f761705142dd08e2978> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "d9f7c0ab4920fdecf3f9a60b92e921b5ca07248fcb0eac2113eb97392ddd6c6c" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/a9a0cabd376a2b3a8eb838f15f6aeb1b63ffe49d527598994962e0d15ad2081c> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0308252043" ;
+	<http://purl.org/dc/terms/identifier> "0308252043", "OVO002203" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Oudenaarde" .
+
+<http://data.lblod.info/id/bestuurseenheden/da17a1c564c4f0aecbe800efaedcee7428e80c127b4a1bc829519b375ad20707> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/e717f80fd9f828c1e2c972e0bd12bf1ef3c1ec6b896f7a60dc9de9fe9d59ef2e> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "da17a1c564c4f0aecbe800efaedcee7428e80c127b4a1bc829519b375ad20707" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/60a52229c92c1407e0549a573f820fb8a1f9fab5c82654b4b3493bc81be365de> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207525758" ;
+	<http://purl.org/dc/terms/identifier> "0207525758", "OVO002251" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Tienen" .
+
+<http://data.lblod.info/id/bestuurseenheden/dac6ed961e62f29e2706c8213c6c5ee28d07bb719e564bcd47157499561e613b> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/e6899dbcd0e0d0c2235a2109f4ed14200393b98f62172e28639b0c7ca78b42c4> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "dac6ed961e62f29e2706c8213c6c5ee28d07bb719e564bcd47157499561e613b" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/b6868be9ca6881b1020e6cff8d431531a1cff64b39dc92646a5173b3ee144516> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207471221" ;
+	<http://purl.org/dc/terms/identifier> "0207471221", "OVO002290" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Zonhoven" .
+
+<http://data.lblod.info/id/bestuurseenheden/db046b577b77c00cc82b51b1cdf14396364cbe1ebc0f4cfee09619bec9b0bd5e> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/9398188baec8d653dec67da8687d5a3fec3868ca3e068306a79c6d72e5c88b19> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "db046b577b77c00cc82b51b1cdf14396364cbe1ebc0f4cfee09619bec9b0bd5e" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/a9a0cabd376a2b3a8eb838f15f6aeb1b63ffe49d527598994962e0d15ad2081c> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207458254" ;
+	<http://purl.org/dc/terms/identifier> "0207458254", "OVO002136" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Kruishoutem" .
+
+<http://data.lblod.info/id/bestuurseenheden/dbf74e8b71e474626b7a7566e6b74db3a73790e8b991a385d404e2267378635e> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/9b0208ddd5859a20423ec03c947cfe15ad1fba31d483f18df371fa4cb65177c9> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "dbf74e8b71e474626b7a7566e6b74db3a73790e8b991a385d404e2267378635e" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/b6868be9ca6881b1020e6cff8d431531a1cff64b39dc92646a5173b3ee144516> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207471320" ;
+	<http://purl.org/dc/terms/identifier> "0207471320", "OVO002296" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Zutendaal" .
+
+<http://data.lblod.info/id/bestuurseenheden/dcacdef6115b1c15bbaf8559ad4fbc3b694a12af37c178ac54227a630d2ead34> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/a0f4c192f87b91a63a04fbb88bd8da635aadfee6dd810c26aef638c40ebdc677> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "dcacdef6115b1c15bbaf8559ad4fbc3b694a12af37c178ac54227a630d2ead34" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/b6868be9ca6881b1020e6cff8d431531a1cff64b39dc92646a5173b3ee144516> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207471716" ;
+	<http://purl.org/dc/terms/identifier> "0207471716", "OVO002054" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Dilsen-Stokkem" .
+
+<http://data.lblod.info/id/bestuurseenheden/dfd76f1550853dc2b4bc8d763c7b378c8c8c81588dd4ba3e0ef05cfd0a456927> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/430af5d6cd5213ef64332d528f6d977687f9b72ba7c71915fab281754c8a6466> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "dfd76f1550853dc2b4bc8d763c7b378c8c8c81588dd4ba3e0ef05cfd0a456927" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/b6868be9ca6881b1020e6cff8d431531a1cff64b39dc92646a5173b3ee144516> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207477456" ;
+	<http://purl.org/dc/terms/identifier> "0207477456", "OVO002094" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Herstappe" .
+
+<http://data.lblod.info/id/bestuurseenheden/e3293ebdd5233f4afc47124685940336937eb18f5692edb22fe8850cb38cc7b3> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/86abffcc917b9c977ebdecc619663577184a96a7ea9e173962d5aae883c88f4e> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "e3293ebdd5233f4afc47124685940336937eb18f5692edb22fe8850cb38cc7b3" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/f2bda6eb42c1ab85c4ef36588a043ac2bfeffa31bfb88bb7abc597f01efe270b> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207506160" ;
+	<http://purl.org/dc/terms/identifier> "0207506160", "OVO002087" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Hemiksem" .
+
+<http://data.lblod.info/id/bestuurseenheden/e39bc997aa6dd9f240277735efd745b6a0422614d2b36cf01825c86b1b91a9ee> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/acfaca9156320d6ba6f5959e31c8a27d8ea52da0a3294dc2ead6db718ecee7c0> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "e39bc997aa6dd9f240277735efd745b6a0422614d2b36cf01825c86b1b91a9ee" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/a9a0cabd376a2b3a8eb838f15f6aeb1b63ffe49d527598994962e0d15ad2081c> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207450534" ;
+	<http://purl.org/dc/terms/identifier> "0207450534", "OVO002041" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "De Pinte" .
+
+<http://data.lblod.info/id/bestuurseenheden/e3fc7eb1c6f50aa4277e0ae180b002eddf243dab630e9278996df9951316da68> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/5e506589a7fd8753afa62186d5e8f92133b35bc737f495a88dde203e15e0f1ac> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "e3fc7eb1c6f50aa4277e0ae180b002eddf243dab630e9278996df9951316da68" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/b6868be9ca6881b1020e6cff8d431531a1cff64b39dc92646a5173b3ee144516> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207473694" ;
+	<http://purl.org/dc/terms/identifier> "0207473694", "OVO002189" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Neerpelt" .
+
+<http://data.lblod.info/id/bestuurseenheden/e40c7c891fb462d2128235f88fede078846d942da5688e4f9cdfb5bb04844d84> <http://data.vlaanderen.be/ns/besluit#classificatie> <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> ;
+	<http://data.vlaanderen.be/ns/besluit#werkingsgebied> <http://data.lblod.info/id/werkingsgebieden/270ad4bb9f35ae189346b664c1287183890e2825dea5f5fd4489349992b9cf9f> ;
+	<http://mu.semte.ch/vocabularies/core/uuid> "e40c7c891fb462d2128235f88fede078846d942da5688e4f9cdfb5bb04844d84" ;
+	<http://mu.semte.ch/vocabularies/ext/inProvincie> <http://data.lblod.info/id/werkingsgebieden/60a52229c92c1407e0549a573f820fb8a1f9fab5c82654b4b3493bc81be365de> ;
+	<http://mu.semte.ch/vocabularies/ext/kbonummer> "0207515068" ;
+	<http://purl.org/dc/terms/identifier> "0207515068", "OVO002282" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>, <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/dcfb437e-1219-4d1e-891d-057f262da9d6> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Zaventem" .
+
+	}
+}
