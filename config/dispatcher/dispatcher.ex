@@ -10,7 +10,7 @@ defmodule Dispatcher do
 
   define_layers [ :static, :sparql, :api_services, :frontend_fallback, :resources, :not_found ]
 
-  options "*path", _ do
+  options "/*path", _ do
     conn
     |> Plug.Conn.put_resp_header( "access-control-allow-headers", "content-type,accept" )
     |> Plug.Conn.put_resp_header( "access-control-allow-methods", "*" )
