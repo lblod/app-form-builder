@@ -3,6 +3,7 @@
   :properties `(
     (:prefLabel :string ,(s-prefix "skos:prefLabel"))
     (:isPublic :boolean ,(s-prefix "ext:isPublic"))
+    (:createdAt :string ,(s-prefix "dct:created"))
     )
   :has-many `((concept :via ,(s-prefix "skos:inScheme")
                        :inverse t
