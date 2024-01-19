@@ -2,6 +2,7 @@
   :class (s-prefix "skos:ConceptScheme")
   :properties `(
     (:prefLabel :string ,(s-prefix "skos:prefLabel"))
+    (:isPublic :boolean ,(s-prefix "ext:isPublic"))
     )
   :has-many `((concept :via ,(s-prefix "skos:inScheme")
                        :inverse t
