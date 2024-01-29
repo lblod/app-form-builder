@@ -2,6 +2,7 @@
   :class (s-prefix "skos:ConceptScheme")
   :properties `(
     (:prefLabel :string ,(s-prefix "skos:prefLabel"))
+    (:description :string ,(s-prefix "skos:note"))
     (:isPublic :boolean ,(s-prefix "ext:isPublic"))
     (:createdAt :string ,(s-prefix "dct:created"))
     )
