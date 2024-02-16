@@ -4,6 +4,7 @@
     (:prefLabel :string ,(s-prefix "skos:prefLabel"))
     (:description :string ,(s-prefix "skos:note"))
     (:isPublic :boolean ,(s-prefix "ext:isPublic"))
+    (:isArchived :boolean ,(s-prefix "ext:isArchived"))
     (:createdAt :string ,(s-prefix "dct:created"))
     )
   :has-many `((concept :via ,(s-prefix "skos:inScheme")
