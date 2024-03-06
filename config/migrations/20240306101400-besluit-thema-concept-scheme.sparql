@@ -135,7 +135,7 @@ INSERT DATA {
         <http://www.w3.org/2004/02/skos/core#prefLabel>  "Ondernemen en werken." ;
         <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> .
       
-    <https://data.vlaanderen.be/id/concept/BesluitThema/Ondernemen> 
+    <https://data.vlaanderen.be/id/concept/BesluitThema/23bcd768-f9a4-49a0-9844-687438212239> 
         a <http://www.w3.org/2004/02/skos/core#Concept> ;
         <http://www.w3.org/2004/02/skos/core#definition> "Ondernemen." ;
         <http://www.w3.org/2004/02/skos/core#broader>  <https://data.vlaanderen.be/id/concept/BesluitThema/Doelgroepenbeleid> ;
