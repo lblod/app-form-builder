@@ -174,7 +174,7 @@ INSERT DATA {
         <http://www.w3.org/2004/02/skos/core#prefLabel>  "Doelgroepenbeleid." ;
         <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> .
       
-    <https://data.vlaanderen.be/id/concept/BesluitThema/Jeugd> 
+    <https://data.vlaanderen.be/id/concept/BesluitThema/24791983-85a9-4819-b6b7-03a876d36e8c> 
         a <http://www.w3.org/2004/02/skos/core#Concept> ;
         <http://www.w3.org/2004/02/skos/core#definition> "Jeugd." ;
         <http://www.w3.org/2004/02/skos/core#broader>  <https://data.vlaanderen.be/id/concept/BesluitThema/b8299662-7613-41cd-9072-b10ded6a7863> ;
