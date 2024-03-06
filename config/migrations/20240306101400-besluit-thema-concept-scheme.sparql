@@ -82,7 +82,7 @@ INSERT DATA {
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Verkeersveiligheid." ;
         <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> .
 
-    <https://data.vlaanderen.be/id/concept/BesluitThema/VeiligheidInDeSamenleving> 
+    <https://data.vlaanderen.be/id/concept/BesluitThema/55ecf65e-e224-46e1-95eb-f4bddd24f070> 
         a <http://www.w3.org/2004/02/skos/core#Concept> ;
         <http://www.w3.org/2004/02/skos/core#definition> "Veiligheid in de samenleving." ;
         <http://www.w3.org/2004/02/skos/core#broader> <https://data.vlaanderen.be/id/concept/BesluitThema/SamenlevenEnDiversiteit> ;
