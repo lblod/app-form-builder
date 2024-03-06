@@ -143,7 +143,7 @@ INSERT DATA {
         <http://www.w3.org/2004/02/skos/core#prefLabel>  "Ondernemen." ;
         <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> .
       
-    <https://data.vlaanderen.be/id/concept/BesluitThema/Werk>
+    <https://data.vlaanderen.be/id/concept/BesluitThema/dee3d958-cac6-4384-9ab5-35aaafe2a771>
         a <http://www.w3.org/2004/02/skos/core#Concept> ;
         <http://www.w3.org/2004/02/skos/core#definition> "Werk." ;
         <http://www.w3.org/2004/02/skos/core#broader>  <https://data.vlaanderen.be/id/concept/BesluitThema/2d477130-7e2e-499a-b18d-7e682b767fb9> ;
