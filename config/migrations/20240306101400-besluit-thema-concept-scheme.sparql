@@ -28,7 +28,7 @@ INSERT DATA {
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Evenementen." ;
         <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> .
       
-    <https://data.vlaanderen.be/id/concept/BesluitThema/Erfgoed> 
+    <https://data.vlaanderen.be/id/concept/BesluitThema/ddd9e5df-c74d-43c1-ad01-2b627ab2d303> 
         a <http://www.w3.org/2004/02/skos/core#Concept> ;
         <http://www.w3.org/2004/02/skos/core#definition> "Erfgoed." ;
         <http://www.w3.org/2004/02/skos/core#broader> <https://data.vlaanderen.be/id/concept/BesluitThema/086f8653-a80f-4b41-86d6-add639c550e9> ;
