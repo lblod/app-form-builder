@@ -44,7 +44,7 @@ INSERT DATA {
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Kunst- en cultuurbeleid." ;
         <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> .
       
-    <https://data.vlaanderen.be/id/concept/BesluitThema/Erediensten> 
+    <https://data.vlaanderen.be/id/concept/BesluitThema/3f3fe0fd-7b5c-4fbf-b6cd-c4830666b02b> 
         a <http://www.w3.org/2004/02/skos/core#Concept> ;
         <http://www.w3.org/2004/02/skos/core#definition> "Erediensten." ;
         <http://www.w3.org/2004/02/skos/core#broader> <https://data.vlaanderen.be/id/concept/BesluitThema/086f8653-a80f-4b41-86d6-add639c550e9> ;
