@@ -197,7 +197,7 @@ INSERT DATA {
         <http://www.w3.org/2004/02/skos/core#prefLabel>  "Samenleven en diversiteit." ;
         <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> .
 
-    <https://data.vlaanderen.be/id/concept/BesluitThema/Armoede> 
+    <https://data.vlaanderen.be/id/concept/BesluitThema/895b6db7-b7c2-41e6-ba63-e82cc20c38d6> 
         a <http://www.w3.org/2004/02/skos/core#Concept> ;
         <http://www.w3.org/2004/02/skos/core#definition> "Armoede." ;
         <http://www.w3.org/2004/02/skos/core#broader>  <https://data.vlaanderen.be/id/concept/BesluitThema/b8299662-7613-41cd-9072-b10ded6a7863> ;
