@@ -12,7 +12,7 @@ INSERT DATA {
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Cultuur en vrije tijd." ;
         <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> .
 
-    <https://data.vlaanderen.be/id/concept/BesluitThema/CultureleInstellingen> 
+    <https://data.vlaanderen.be/id/concept/BesluitThema/f72f9034-23b3-47a0-b983-3de3bade0f28> 
         a <http://www.w3.org/2004/02/skos/core#Concept> ;
         <http://www.w3.org/2004/02/skos/core#definition> "Culturele instellingen." ;
         <http://www.w3.org/2004/02/skos/core#broader> <https://data.vlaanderen.be/id/concept/BesluitThema/086f8653-a80f-4b41-86d6-add639c550e9> ;
