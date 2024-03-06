@@ -20,7 +20,7 @@ INSERT DATA {
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Culturele instellingen." ;
         <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> .
 
-    <https://data.vlaanderen.be/id/concept/BesluitThema/Evenementen> 
+    <https://data.vlaanderen.be/id/concept/BesluitThema/de069524-90e5-4b35-b68e-ede03c19911e> 
         a <http://www.w3.org/2004/02/skos/core#Concept> ;
         <http://www.w3.org/2004/02/skos/core#definition> "Evenementen." ;
         <http://www.w3.org/2004/02/skos/core#broader> <https://data.vlaanderen.be/id/concept/BesluitThema/086f8653-a80f-4b41-86d6-add639c550e9> ;
