@@ -113,7 +113,7 @@ INSERT DATA {
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Algemene financiën." ;
         <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> .
       
-    <https://data.vlaanderen.be/id/concept/BesluitThema/ZorgEnGezondheid> 
+    <https://data.vlaanderen.be/id/concept/BesluitThema/0e627234-6ea7-41b7-98a2-fbc56afa0b86> 
         a <http://www.w3.org/2004/02/skos/core#Concept> ;
         <http://www.w3.org/2004/02/skos/core#definition> "Zorg en gezondheid." ;
         <http://www.w3.org/2004/02/skos/core#inscheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> ;
@@ -123,7 +123,7 @@ INSERT DATA {
     <https://data.vlaanderen.be/id/concept/BesluitThema/Opvang> 
         a <http://www.w3.org/2004/02/skos/core#Concept> ;
         <http://www.w3.org/2004/02/skos/core#definition> "Opvang." ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <https://data.vlaanderen.be/id/concept/BesluitThema/ZorgEnGezondheid> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <https://data.vlaanderen.be/id/concept/BesluitThema/0e627234-6ea7-41b7-98a2-fbc56afa0b86> ;
         <http://www.w3.org/2004/02/skos/core#inscheme>  <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> ;
         <http://www.w3.org/2004/02/skos/core#prefLabel>  "Opvang." ;
         <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> .
@@ -209,7 +209,7 @@ INSERT DATA {
         a <http://www.w3.org/2004/02/skos/core#Concept> ;
         <http://www.w3.org/2004/02/skos/core#definition> "Integratie." ;
         <http://www.w3.org/2004/02/skos/core#broader>  <https://data.vlaanderen.be/id/concept/BesluitThema/Doelgroepenbeleid> ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <https://data.vlaanderen.be/id/concept/BesluitThema/ZorgEnGezondheid> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <https://data.vlaanderen.be/id/concept/BesluitThema/0e627234-6ea7-41b7-98a2-fbc56afa0b86> ;
         <http://www.w3.org/2004/02/skos/core#broader>  <https://data.vlaanderen.be/id/concept/BesluitThema/SamenlevenEnDiversiteit> ;
         <http://www.w3.org/2004/02/skos/core#inscheme>  <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> ;
         <http://www.w3.org/2004/02/skos/core#prefLabel>  "Integratie." ;
