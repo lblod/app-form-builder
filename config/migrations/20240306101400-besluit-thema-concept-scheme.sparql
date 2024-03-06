@@ -105,7 +105,7 @@ INSERT DATA {
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Algemeen bestuur." ;
         <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> .
 
-    <https://data.vlaanderen.be/id/concept/BesluitThema/AlgemeneFinanciën> 
+    <https://data.vlaanderen.be/id/concept/BesluitThema/2f736f3c-9328-4c72-9a78-9c6090d90c9f> 
         a <http://www.w3.org/2004/02/skos/core#Concept> ;
         <http://www.w3.org/2004/02/skos/core#definition> "Algemene financiën." ;
         <http://www.w3.org/2004/02/skos/core#broader> <https://data.vlaanderen.be/id/concept/BesluitThema/251e843a-522d-4c64-ad67-8dec54041e37> ;
