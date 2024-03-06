@@ -138,7 +138,7 @@ INSERT DATA {
     <https://data.vlaanderen.be/id/concept/BesluitThema/23bcd768-f9a4-49a0-9844-687438212239> 
         a <http://www.w3.org/2004/02/skos/core#Concept> ;
         <http://www.w3.org/2004/02/skos/core#definition> "Ondernemen." ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <https://data.vlaanderen.be/id/concept/BesluitThema/Doelgroepenbeleid> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <https://data.vlaanderen.be/id/concept/BesluitThema/b8299662-7613-41cd-9072-b10ded6a7863> ;
         <http://www.w3.org/2004/02/skos/core#inscheme>  <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> ;
         <http://www.w3.org/2004/02/skos/core#prefLabel>  "Ondernemen." ;
         <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> .
@@ -167,7 +167,7 @@ INSERT DATA {
         <http://www.w3.org/2004/02/skos/core#prefLabel>  "Klimaat, Milieu en Natuur." ;
         <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> .
       
-    <https://data.vlaanderen.be/id/concept/BesluitThema/Doelgroepenbeleid> 
+    <https://data.vlaanderen.be/id/concept/BesluitThema/b8299662-7613-41cd-9072-b10ded6a7863> 
         a <http://www.w3.org/2004/02/skos/core#Concept> ;
         <http://www.w3.org/2004/02/skos/core#definition> "Doelgroepenbeleid." ;
         <http://www.w3.org/2004/02/skos/core#inscheme>  <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> ;
@@ -177,7 +177,7 @@ INSERT DATA {
     <https://data.vlaanderen.be/id/concept/BesluitThema/Jeugd> 
         a <http://www.w3.org/2004/02/skos/core#Concept> ;
         <http://www.w3.org/2004/02/skos/core#definition> "Jeugd." ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <https://data.vlaanderen.be/id/concept/BesluitThema/Doelgroepenbeleid> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <https://data.vlaanderen.be/id/concept/BesluitThema/b8299662-7613-41cd-9072-b10ded6a7863> ;
         <http://www.w3.org/2004/02/skos/core#inscheme>  <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> ;
         <http://www.w3.org/2004/02/skos/core#prefLabel>  "Jeugd." ;
         <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> .
@@ -185,7 +185,7 @@ INSERT DATA {
     <https://data.vlaanderen.be/id/concept/BesluitThema/Senioren> 
         a <http://www.w3.org/2004/02/skos/core#Concept> ;
         <http://www.w3.org/2004/02/skos/core#definition> "Senioren." ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <https://data.vlaanderen.be/id/concept/BesluitThema/Doelgroepenbeleid> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <https://data.vlaanderen.be/id/concept/BesluitThema/b8299662-7613-41cd-9072-b10ded6a7863> ;
         <http://www.w3.org/2004/02/skos/core#inscheme>  <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> ;
         <http://www.w3.org/2004/02/skos/core#prefLabel>  "Senioren." ;
         <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> .
@@ -200,7 +200,7 @@ INSERT DATA {
     <https://data.vlaanderen.be/id/concept/BesluitThema/Armoede> 
         a <http://www.w3.org/2004/02/skos/core#Concept> ;
         <http://www.w3.org/2004/02/skos/core#definition> "Armoede." ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <https://data.vlaanderen.be/id/concept/BesluitThema/Doelgroepenbeleid> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <https://data.vlaanderen.be/id/concept/BesluitThema/b8299662-7613-41cd-9072-b10ded6a7863> ;
         <http://www.w3.org/2004/02/skos/core#inscheme>  <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> ;
         <http://www.w3.org/2004/02/skos/core#prefLabel>  "Armoede." ;
         <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> .
@@ -208,7 +208,7 @@ INSERT DATA {
     <https://data.vlaanderen.be/id/concept/BesluitThema/Integratie> 
         a <http://www.w3.org/2004/02/skos/core#Concept> ;
         <http://www.w3.org/2004/02/skos/core#definition> "Integratie." ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <https://data.vlaanderen.be/id/concept/BesluitThema/Doelgroepenbeleid> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <https://data.vlaanderen.be/id/concept/BesluitThema/b8299662-7613-41cd-9072-b10ded6a7863> ;
         <http://www.w3.org/2004/02/skos/core#broader>  <https://data.vlaanderen.be/id/concept/BesluitThema/0e627234-6ea7-41b7-98a2-fbc56afa0b86> ;
         <http://www.w3.org/2004/02/skos/core#broader>  <https://data.vlaanderen.be/id/concept/BesluitThema/SamenlevenEnDiversiteit> ;
         <http://www.w3.org/2004/02/skos/core#inscheme>  <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> ;
