@@ -67,7 +67,7 @@ INSERT DATA {
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Wonen en ruimtelijke ordening." ;
         <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> .
       
-    <https://data.vlaanderen.be/id/concept/BesluitThema/Mobiliteit> 
+    <https://data.vlaanderen.be/id/concept/BesluitThema/1080601b-b003-4096-aa29-05c32a62a095> 
         a <http://www.w3.org/2004/02/skos/core#Concept> ;
         <http://www.w3.org/2004/02/skos/core#definition> "Mobiliteit." ;
         <http://www.w3.org/2004/02/skos/core#inscheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> ;
@@ -77,7 +77,7 @@ INSERT DATA {
     <https://data.vlaanderen.be/id/concept/BesluitThema/Verkeersveiligheid> 
         a <http://www.w3.org/2004/02/skos/core#Concept> ;
         <http://www.w3.org/2004/02/skos/core#definition> "Verkeersveiligheid." ;
-        <http://www.w3.org/2004/02/skos/core#broader> <https://data.vlaanderen.be/id/concept/BesluitThema/Mobiliteit> ;
+        <http://www.w3.org/2004/02/skos/core#broader> <https://data.vlaanderen.be/id/concept/BesluitThema/1080601b-b003-4096-aa29-05c32a62a095> ;
         <http://www.w3.org/2004/02/skos/core#inscheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> ;
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Verkeersveiligheid." ;
         <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> .
