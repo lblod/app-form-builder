@@ -5,7 +5,7 @@ INSERT DATA {
       <http://www.w3.org/2004/02/skos/core#prefLabel> "conceptscheme besluitthema" ;
       <http://www.w3.org/2004/02/skos/core#definition> "Codelijst voor thema's van besluiten." .
 
-    <https://data.vlaanderen.be/id/concept/BesluitThema/CultuurEnVrijeTijd> 
+    <https://data.vlaanderen.be/id/concept/BesluitThema/086f8653-a80f-4b41-86d6-add639c550e9> 
         a <http://www.w3.org/2004/02/skos/core#Concept> ;
         <http://www.w3.org/2004/02/skos/core#definition> "Cultuur en vrije tijd." ;
         <http://www.w3.org/2004/02/skos/core#inscheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> ;
@@ -15,7 +15,7 @@ INSERT DATA {
     <https://data.vlaanderen.be/id/concept/BesluitThema/CultureleInstellingen> 
         a <http://www.w3.org/2004/02/skos/core#Concept> ;
         <http://www.w3.org/2004/02/skos/core#definition> "Culturele instellingen." ;
-        <http://www.w3.org/2004/02/skos/core#broader> <https://data.vlaanderen.be/id/concept/BesluitThema/CultuurEnVrijeTijd> ;
+        <http://www.w3.org/2004/02/skos/core#broader> <https://data.vlaanderen.be/id/concept/BesluitThema/086f8653-a80f-4b41-86d6-add639c550e9> ;
         <http://www.w3.org/2004/02/skos/core#inscheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> ;
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Culturele instellingen." ;
         <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> .
@@ -23,7 +23,7 @@ INSERT DATA {
     <https://data.vlaanderen.be/id/concept/BesluitThema/Evenementen> 
         a <http://www.w3.org/2004/02/skos/core#Concept> ;
         <http://www.w3.org/2004/02/skos/core#definition> "Evenementen." ;
-        <http://www.w3.org/2004/02/skos/core#broader> <https://data.vlaanderen.be/id/concept/BesluitThema/CultuurEnVrijeTijd> ;
+        <http://www.w3.org/2004/02/skos/core#broader> <https://data.vlaanderen.be/id/concept/BesluitThema/086f8653-a80f-4b41-86d6-add639c550e9> ;
         <http://www.w3.org/2004/02/skos/core#inscheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> ;
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Evenementen." ;
         <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> .
@@ -31,7 +31,7 @@ INSERT DATA {
     <https://data.vlaanderen.be/id/concept/BesluitThema/Erfgoed> 
         a <http://www.w3.org/2004/02/skos/core#Concept> ;
         <http://www.w3.org/2004/02/skos/core#definition> "Erfgoed." ;
-        <http://www.w3.org/2004/02/skos/core#broader> <https://data.vlaanderen.be/id/concept/BesluitThema/CultuurEnVrijeTijd> ;
+        <http://www.w3.org/2004/02/skos/core#broader> <https://data.vlaanderen.be/id/concept/BesluitThema/086f8653-a80f-4b41-86d6-add639c550e9> ;
         <http://www.w3.org/2004/02/skos/core#inscheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> ;
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Erfgoed." ;
         <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> .
@@ -39,7 +39,7 @@ INSERT DATA {
     <https://data.vlaanderen.be/id/concept/BesluitThema/KunstEnCultuurbeleid> 
         a <http://www.w3.org/2004/02/skos/core#Concept> ;
         <http://www.w3.org/2004/02/skos/core#definition> "Kunst- en cultuurbeleid." ;
-        <http://www.w3.org/2004/02/skos/core#broader> <https://data.vlaanderen.be/id/concept/BesluitThema/CultuurEnVrijeTijd> ;
+        <http://www.w3.org/2004/02/skos/core#broader> <https://data.vlaanderen.be/id/concept/BesluitThema/086f8653-a80f-4b41-86d6-add639c550e9> ;
         <http://www.w3.org/2004/02/skos/core#inscheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> ;
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Kunst- en cultuurbeleid." ;
         <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> .
@@ -47,7 +47,7 @@ INSERT DATA {
     <https://data.vlaanderen.be/id/concept/BesluitThema/Erediensten> 
         a <http://www.w3.org/2004/02/skos/core#Concept> ;
         <http://www.w3.org/2004/02/skos/core#definition> "Erediensten." ;
-        <http://www.w3.org/2004/02/skos/core#broader> <https://data.vlaanderen.be/id/concept/BesluitThema/CultuurEnVrijeTijd> ;
+        <http://www.w3.org/2004/02/skos/core#broader> <https://data.vlaanderen.be/id/concept/BesluitThema/086f8653-a80f-4b41-86d6-add639c550e9> ;
         <http://www.w3.org/2004/02/skos/core#inscheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> ;
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Erediensten." ;
         <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> .
@@ -55,7 +55,7 @@ INSERT DATA {
     <https://data.vlaanderen.be/id/concept/BesluitThema/Sport> 
         a <http://www.w3.org/2004/02/skos/core#Concept> ;
         <http://www.w3.org/2004/02/skos/core#definition> "Sport." ;
-        <http://www.w3.org/2004/02/skos/core#broader> <https://data.vlaanderen.be/id/concept/BesluitThema/CultuurEnVrijeTijd> ;
+        <http://www.w3.org/2004/02/skos/core#broader> <https://data.vlaanderen.be/id/concept/BesluitThema/086f8653-a80f-4b41-86d6-add639c550e9> ;
         <http://www.w3.org/2004/02/skos/core#inscheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> ;
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Sport." ;
         <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> .
