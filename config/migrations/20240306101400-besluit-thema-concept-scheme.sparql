@@ -60,7 +60,7 @@ INSERT DATA {
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Sport." ;
         <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> .
       
-    <https://data.vlaanderen.be/id/concept/BesluitThema/WonenEnRuimtelijkeOrdening> 
+    <https://data.vlaanderen.be/id/concept/BesluitThema/a1998c05-b14b-4323-bda6-cfc73ca5a48b> 
         a <http://www.w3.org/2004/02/skos/core#Concept> ;
         <http://www.w3.org/2004/02/skos/core#definition> "Wonen en ruimtelijke ordening." ;
         <http://www.w3.org/2004/02/skos/core#inscheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> ;
@@ -162,7 +162,7 @@ INSERT DATA {
     <https://data.vlaanderen.be/id/concept/BesluitThema/KlimaatMilieuEnNatuur> 
         a <http://www.w3.org/2004/02/skos/core#Concept> ;
         <http://www.w3.org/2004/02/skos/core#definition> "Klimaat, Milieu en Natuur." ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <https://data.vlaanderen.be/id/concept/BesluitThema/WonenEnRuimtelijkeOrdening> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <https://data.vlaanderen.be/id/concept/BesluitThema/a1998c05-b14b-4323-bda6-cfc73ca5a48b> ;
         <http://www.w3.org/2004/02/skos/core#inscheme>  <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> ;
         <http://www.w3.org/2004/02/skos/core#prefLabel>  "Klimaat, Milieu en Natuur." ;
         <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> .
