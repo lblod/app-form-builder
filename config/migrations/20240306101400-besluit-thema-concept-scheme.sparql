@@ -215,7 +215,7 @@ INSERT DATA {
         <http://www.w3.org/2004/02/skos/core#prefLabel>  "Integratie." ;
         <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> .
       
-    <https://data.vlaanderen.be/id/concept/BesluitThema/BevolkingEnBurgerlijkeStand> 
+    <https://data.vlaanderen.be/id/concept/BesluitThema/f90a54fc-72f3-49c9-a1ed-e0c564f51cd7> 
         a <http://www.w3.org/2004/02/skos/core#Concept> ;
         <http://www.w3.org/2004/02/skos/core#definition> "Bevolking en burgerlijke stand." ;
         <http://www.w3.org/2004/02/skos/core#inscheme>  <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> ;
