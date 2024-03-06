@@ -36,7 +36,7 @@ INSERT DATA {
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Erfgoed." ;
         <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitThema> .
       
-    <https://data.vlaanderen.be/id/concept/BesluitThema/KunstEnCultuurbeleid> 
+    <https://data.vlaanderen.be/id/concept/BesluitThema/5371a595-83ce-4af8-a973-81a0dd8a5fdc> 
         a <http://www.w3.org/2004/02/skos/core#Concept> ;
         <http://www.w3.org/2004/02/skos/core#definition> "Kunst- en cultuurbeleid." ;
         <http://www.w3.org/2004/02/skos/core#broader> <https://data.vlaanderen.be/id/concept/BesluitThema/086f8653-a80f-4b41-86d6-add639c550e9> ;
