@@ -10,7 +10,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "release-it": {},
   "devDependencies": {
     "release-it": "^17.1.1"
   }
