@@ -17,25 +17,6 @@ defmodule Dispatcher do
     |> send_resp( 200, "{ \"message\": \"ok\" }" )
   end
 
-  ###############
-  # STATIC
-  ###############
-  match "/assets/*path", %{ layer: :static } do
-    forward conn, path, "http://frontend/assets/"
-  end
-
-  get "/@appuniversum/*path", %{ layer: :static } do
-    forward conn, path, "http://frontend/@appuniversum/"
-  end
-
-  match "/index.html", %{ layer: :static } do
-    forward conn, [], "http://frontend/index.html"
-  end
-
-  match "/favicon.ico", %{ layer: :static } do
-    send_resp( conn, 404, "" )
-  end
-
   #################
   # FRONTEND PAGES
   #################
