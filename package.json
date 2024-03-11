@@ -1,0 +1,17 @@
+{
+  "name": "app-form-builder",
+  "version": "0.0.1",
+  "description": "Application to build forms based on the semantic-forms approach from https://github.com/lblod/ember-submission-form-fields",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "release-it"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "release-it": {},
+  "devDependencies": {
+    "release-it": "^17.1.1"
+  }
+}
