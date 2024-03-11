@@ -24,10 +24,6 @@ defmodule Dispatcher do
     forward conn, path, "http://frontend/assets/"
   end
 
-  match "/forms/*path", %{ layer: :static } do
-    forward conn, path, "http://frontend/forms/"
-  end
-
   get "/@appuniversum/*path", %{ layer: :static } do
     forward conn, path, "http://frontend/@appuniversum/"
   end
