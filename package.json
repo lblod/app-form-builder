@@ -1,6 +1,6 @@
 {
   "name": "app-form-builder",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Application to build forms based on the semantic-forms approach from https://github.com/lblod/ember-submission-form-fields",
   "main": "index.js",
   "scripts": {
