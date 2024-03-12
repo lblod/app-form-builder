@@ -28,6 +28,10 @@ defmodule Dispatcher do
     forward conn, path, "http://frontend/forms/"
   end
 
+  match "/SHACL/*path", %{ layer: :static } do
+    forward conn, path, "http://frontend/SHACL/"
+  end
+
   get "/@appuniversum/*path", %{ layer: :static } do
     forward conn, path, "http://frontend/@appuniversum/"
   end
