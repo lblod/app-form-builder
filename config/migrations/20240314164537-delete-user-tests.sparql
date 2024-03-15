@@ -1,0 +1,10 @@
+DELETE {
+  GRAPH <http://mu.semte.ch/application> {
+    ?s <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mu.semte.ch/vocabularies/ext/UserTest> .
+  }
+}
+WHERE {
+  GRAPH <http://mu.semte.ch/application> {
+    ?s <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mu.semte.ch/vocabularies/ext/UserTest> .
+  }
+}
