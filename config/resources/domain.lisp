@@ -5,7 +5,6 @@
    of responses in the result object's meta.")
 
 (read-domain-file "generated-form.lisp")
-(read-domain-file "user-test.lisp")
 (read-domain-file "file.lisp")
 (read-domain-file "concept-scheme.lisp")
   
