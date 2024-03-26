@@ -1,0 +1,44 @@
+INSERT DATA {
+  GRAPH <http://mu.semte.ch/application> {
+    <http://lblod.data.gift/concept-schemes/3f514a6a-094c-4a33-b1d1-c97e59e2844a>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+      <http://mu.semte.ch/vocabularies/core/uuid> "3f514a6a-094c-4a33-b1d1-c97e59e2844a" ;
+      <http://www.w3.org/2004/02/skos/core#prefLabel> "Opleidingen | Beurs Lokaal Bestuurlijk Talent" ;
+      <http://www.w3.org/2004/02/skos/core#note> "Deze lijst met opleidingen wordt gebruikt voor het formulier: Beurs Lokaal Bestuurlijk Talent" .
+
+    <http://lblod.data.gift/concepts/9d07c5c1-e5c3-4f67-b5ee-e1802db8869a>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> ;
+      <http://mu.semte.ch/vocabularies/core/uuid> "9d07c5c1-e5c3-4f67-b5ee-e1802db8869a" ;
+      <http://purl.org/linked-data/cube#order> 1 ;
+      <http://www.w3.org/2004/02/skos/core#prefLabel> "Executive Master in Public Governance & Leadership aan de Antwerp Management School" ;
+      <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/3f514a6a-094c-4a33-b1d1-c97e59e2844a> .
+
+    <http://lblod.data.gift/concepts/ac63d1c0-e89b-494d-b823-d3eb51094b59>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> ;
+      <http://mu.semte.ch/vocabularies/core/uuid> "ac63d1c0-e89b-494d-b823-d3eb51094b59" ;
+      <http://purl.org/linked-data/cube#order> 2 ;
+      <http://www.w3.org/2004/02/skos/core#prefLabel> "Master in de bestuurskunde en het publiek management aan de Universiteit van Gent" ;
+      <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/3f514a6a-094c-4a33-b1d1-c97e59e2844a> .
+
+    <http://lblod.data.gift/concepts/c33fdc82-e653-42a5-a81c-d945a71a3d3f>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> ;
+      <http://mu.semte.ch/vocabularies/core/uuid> "c33fdc82-e653-42a5-a81c-d945a71a3d3f" ;
+      <http://purl.org/linked-data/cube#order> 3 ;
+      <http://www.w3.org/2004/02/skos/core#prefLabel> "Master in de politieke wetenschappen: democratie en leiderschap aan de VUB." ;
+      <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/3f514a6a-094c-4a33-b1d1-c97e59e2844a> .
+    
+    <http://lblod.data.gift/concepts/76e88e6b-1863-4841-b439-ef92e0b2522d>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> ;
+      <http://mu.semte.ch/vocabularies/core/uuid> "76e88e6b-1863-4841-b439-ef92e0b2522d" ;
+      <http://purl.org/linked-data/cube#order> 4 ;
+      <http://www.w3.org/2004/02/skos/core#prefLabel> "Master in het publiek management en beleid aan de KU Leuven" ;
+      <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/3f514a6a-094c-4a33-b1d1-c97e59e2844a> .
+
+    <http://lblod.data.gift/concepts/81172753-a547-44ad-8d7a-c98af5fc528d>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> ;
+      <http://mu.semte.ch/vocabularies/core/uuid> "81172753-a547-44ad-8d7a-c98af5fc528d" ;
+      <http://purl.org/linked-data/cube#order> 5 ;
+      <http://www.w3.org/2004/02/skos/core#prefLabel> "Andere" ;
+      <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/3f514a6a-094c-4a33-b1d1-c97e59e2844a> .
+  }
+}
