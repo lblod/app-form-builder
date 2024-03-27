@@ -1,0 +1,23 @@
+INSERT DATA {
+  GRAPH <http://mu.semte.ch/application> {
+    <http://lblod.data.gift/concept-schemes/e311b861-d8aa-47a1-80e9-7f4a1fb3de09>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+      <http://mu.semte.ch/vocabularies/core/uuid> "e311b861-d8aa-47a1-80e9-7f4a1fb3de09" ;
+      <http://www.w3.org/2004/02/skos/core#prefLabel> "Onderzoeksvraag ja/nee" ;
+      <http://www.w3.org/2004/02/skos/core#note> "Deze lijst geeft de mogelijkheid om te kunnen antwoorden met ja of nee." .
+
+    <http://lblod.data.gift/concepts/7049d9db-de0f-4fb1-88e0-e1dc225258c1>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> ;
+      <http://mu.semte.ch/vocabularies/core/uuid> "7049d9db-de0f-4fb1-88e0-e1dc225258c1" ;
+      <http://purl.org/linked-data/cube#order> 1 ;
+      <http://www.w3.org/2004/02/skos/core#prefLabel> "Ja" ;
+      <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/e311b861-d8aa-47a1-80e9-7f4a1fb3de09> .
+
+    <http://lblod.data.gift/concepts/f55e19a7-2564-4625-aac5-d7e135842fb8>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> ;
+      <http://mu.semte.ch/vocabularies/core/uuid> "f55e19a7-2564-4625-aac5-d7e135842fb8" ;
+      <http://purl.org/linked-data/cube#order> 2 ;
+      <http://www.w3.org/2004/02/skos/core#prefLabel> "Nee" ;
+      <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/e311b861-d8aa-47a1-80e9-7f4a1fb3de09> .
+  }
+}
