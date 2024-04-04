@@ -36,3 +36,4 @@
 (add-prefix "dct" "http://purl.org/dc/terms/")
 (add-prefix "skos" "http://www.w3.org/2004/02/skos/core#")
 (add-prefix "nfo" "http://www.semanticdesktop.org/ontologies/2007/03/22/nfo#")
+(add-prefix "qb" "http://purl.org/linked-data/cube#")

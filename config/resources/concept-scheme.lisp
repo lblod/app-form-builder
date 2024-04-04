@@ -19,6 +19,7 @@
   :class (s-prefix "skos:Concept")
   :properties `(
     (:prefLabel :string ,(s-prefix "skos:prefLabel"))
+    (:order :string ,(s-prefix "qb:order"))
     )
   :has-many `((concept-scheme :via ,(s-prefix "skos:inScheme")
                               :as "concept-schemes"))
